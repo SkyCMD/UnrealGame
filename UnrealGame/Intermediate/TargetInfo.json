@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealGame",
+			"Path": "E:\\Unreal Projects\\UnrealGame\\UnrealGame\\Source\\UnrealGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealGameEditor",
+			"Path": "E:\\Unreal Projects\\UnrealGame\\UnrealGame\\Source\\UnrealGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
