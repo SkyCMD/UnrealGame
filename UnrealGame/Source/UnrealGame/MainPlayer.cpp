@@ -11,14 +11,18 @@ AMainPlayer::AMainPlayer()
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>("SpringArm");
 	SpringArm->SetupAttachment(RootComponent);
 	SpringArm->TargetArmLength = 700.0f;
+	SpringArm->bInheritYaw = false;
 
 	Camera = CreateDefaultSubobject<UCameraComponent>("Camera");
 
 	Camera->SetupAttachment(SpringArm);
 
-	GetCharacterMovement()->bUseControllerDesiredRotation = true;
+	GetCharacterMovement()->bUseControllerDesiredRotation = false;
 	GetCharacterMovement()->JumpZVelocity = 600;
 	GetCharacterMovement()->AirControl = 0.5;
+	GetCharacterMovement()->bOrientRotationToMovement = true;
+	FRotator rot(800, 800, 800);
+	GetCharacterMovement()->RotationRate = rot;
 }
 
 // Called when the game starts or when spawned
