@@ -23,15 +23,20 @@ public:
 		USpringArmComponent* SpringArm;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")
 		UCameraComponent* Camera;
+		
 
-	void moveRight(float);
-	void jump(float);
 	UFUNCTION(BlueprintPure, Category = "Movement")
 		float getMoveDir();
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 	float moveDir;
+	bool dashing;
+	void moveRight(float);
+	void DashEnd();
+	void DashBegin();
+
 
 public:	
 	// Called every frame
