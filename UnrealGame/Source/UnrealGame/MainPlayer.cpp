@@ -36,34 +36,63 @@ void AMainPlayer::BeginPlay()
 }
 
 float AMainPlayer::getMoveDir() {
-	return moveDir;
+	return horDir;
 }
 
 void AMainPlayer::moveRight(float axis) {
-	if (!dashing) {
+	if (!prepForDash && !dashing) {
 		FVector dir(0, axis, 0);
 		AddMovementInput(dir, -1);
-		moveDir = axis;
 	}
+	horDir = axis;
+}
+
+
+void AMainPlayer::moveUp(float axis) {
+	verDir = axis;
 }
 
 // Called every frame
 void AMainPlayer::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	moveDir = 0;
+	//horDir = 0;
+	verDir = 0;
+	if (dashing == true) {
+		Dash();
+	}
 }
 
 
 //These functions just exist so you can tell whether or not the player is going to try to dash
-void AMainPlayer::DashBegin() {
+void AMainPlayer::DashPrepare() {
+	prepForDash = true;
+}
+
+void AMainPlayer::DashExecute() {
+	prepForDash = false;
+	dashDir = horDir;
+	dashDistanceRemaining = dashDistance;
 	dashing = true;
 }
 
-void AMainPlayer::DashEnd() {
-	dashing = false;
-}
+//Actually makes the player Dash
+void AMainPlayer::Dash() {
+	FVector loc = GetActorLocation();
+	if (dashDistanceRemaining - dashSpeed > 0) {
+		loc.Y += (dashSpeed * (-dashDir)); //Takes the direction the player is pressing and multiplies it by the speed you want to dash
+		SetActorLocation(loc, true); //Actually moves the character
+		dashDistanceRemaining -= dashSpeed;
+	}
+	else {
+		loc.Y += (dashDistanceRemaining * (-dashDir));
+		SetActorLocation(loc, true);
+		dashing = false;
+	}
 
+	
+
+}
 
 // Called to bind functionality to input
 void AMainPlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -71,9 +100,11 @@ void AMainPlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputComponen
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AMainPlayer::Jump);
-	PlayerInputComponent->BindAction("PlayerDash", IE_Pressed, this, &AMainPlayer::DashBegin);
-	PlayerInputComponent->BindAction("PlayerDash", IE_Released, this, &AMainPlayer::DashEnd);
+	PlayerInputComponent->BindAction("PlayerDash", IE_Pressed, this, &AMainPlayer::DashPrepare);
+	PlayerInputComponent->BindAction("PlayerDash", IE_Released, this, &AMainPlayer::DashExecute);
 
+	PlayerInputComponent->BindAxis("VertMove", this, &AMainPlayer::moveUp);
 	PlayerInputComponent->BindAxis("Move", this, &AMainPlayer::moveRight);
+	
 }
 

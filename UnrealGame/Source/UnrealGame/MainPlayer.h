@@ -31,11 +31,27 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-	float moveDir;
-	bool dashing;
+
+	//Code used for basic movement
+	float horDir;
+	float verDir;
+
 	void moveRight(float);
-	void DashEnd();
-	void DashBegin();
+	void moveUp(float);
+
+	//Code used for dashing
+	int dashDistanceRemaining;
+	float dashDir;
+	bool prepForDash;
+	bool dashing;
+	//This is the total distance the player will travel
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
+		int dashDistance = 700;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
+		int dashSpeed = 100;
+	void DashExecute();
+	void DashPrepare();
+	void Dash();
 
 
 public:	

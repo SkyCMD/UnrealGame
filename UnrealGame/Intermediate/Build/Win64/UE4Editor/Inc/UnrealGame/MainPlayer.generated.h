@@ -66,7 +66,11 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMainPlayer); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMainPlayer)
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_PRIVATE_PROPERTY_OFFSET
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__dashDistance() { return STRUCT_OFFSET(AMainPlayer, dashDistance); } \
+	FORCEINLINE static uint32 __PPO__dashSpeed() { return STRUCT_OFFSET(AMainPlayer, dashSpeed); }
+
+
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_13_PROLOG
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

@@ -1,12 +1,7 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame).
   Building UnrealGameEditor...
   Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 12 processes...
-    [1/4] MainPlayer.cpp
-    [2/4] UE4Editor-UnrealGame-0060.lib
-       Creating library E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0060.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0060.exp
-    [3/4] UE4Editor-UnrealGame-0060.dll
-       Creating library E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0060.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0060.suppressed.exp
-    [4/4] UnrealGameEditor.target
-  Total time in Parallel executor: 1.37 seconds
-  Total execution time: 1.96 seconds
+  Building 1 action with 12 processes...
+    [1/1] UnrealGameEditor.target
+  Total time in Parallel executor: 0.19 seconds
+  Total execution time: 0.71 seconds
