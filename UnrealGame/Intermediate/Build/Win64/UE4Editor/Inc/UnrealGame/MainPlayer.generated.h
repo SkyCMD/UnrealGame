@@ -67,8 +67,12 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMainPlayer); \
 
 
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_16_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__prepForDash() { return STRUCT_OFFSET(AMainPlayer, prepForDash); } \
+	FORCEINLINE static uint32 __PPO__dashing() { return STRUCT_OFFSET(AMainPlayer, dashing); } \
 	FORCEINLINE static uint32 __PPO__dashDistance() { return STRUCT_OFFSET(AMainPlayer, dashDistance); } \
-	FORCEINLINE static uint32 __PPO__dashSpeed() { return STRUCT_OFFSET(AMainPlayer, dashSpeed); }
+	FORCEINLINE static uint32 __PPO__dashSpeed() { return STRUCT_OFFSET(AMainPlayer, dashSpeed); } \
+	FORCEINLINE static uint32 __PPO__DashCameraShake() { return STRUCT_OFFSET(AMainPlayer, DashCameraShake); } \
+	FORCEINLINE static uint32 __PPO__CameraShakeTimer() { return STRUCT_OFFSET(AMainPlayer, CameraShakeTimer); }
 
 
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_13_PROLOG

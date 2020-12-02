@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D01960A2-CC5A-4029-BCD7-502EC3E625F6}</UniqueIdentifier>
+      <UniqueIdentifier>{647D097E-664B-4D20-A135-2F33CA8CB3DE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealGame.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\UnrealGameEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\SCK_Casual01.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{CE9DD54F-2AB5-4F1A-974B-7D2838F970AC}</UniqueIdentifier>
+      <UniqueIdentifier>{7D32F54C-A324-4A80-8261-23CA60C4EA36}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +31,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealGame">
-      <UniqueIdentifier>{AFA2BA44-9F5E-4A7B-8D5F-2E5115E4F394}</UniqueIdentifier>
+      <UniqueIdentifier>{4BB63239-6920-4100-854F-0BF50355AFFD}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UnrealGame\DashCameraShake.cpp">
+      <Filter>Source\UnrealGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealGame\DashCameraShake.h">
+      <Filter>Source\UnrealGame</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\UnrealGame\MainPlayer.cpp">
       <Filter>Source\UnrealGame</Filter>
     </ClCompile>

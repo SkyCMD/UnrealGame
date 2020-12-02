@@ -23,7 +23,6 @@ public:
 		USpringArmComponent* SpringArm;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")
 		UCameraComponent* Camera;
-		
 
 	UFUNCTION(BlueprintPure, Category = "Movement")
 		float getMoveDir();
@@ -42,17 +41,32 @@ protected:
 	//Code used for dashing
 	int dashDistanceRemaining;
 	float dashDir;
-	bool prepForDash;
-	bool dashing;
+	int currShakeTime;
+
+
+	UPROPERTY(VisibleAnywhere, BluePrintReadOnly, Category = "Dash")
+		bool prepForDash;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Dash")
+		bool dashing;
+
 	//This is the total distance the player will travel
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
 		int dashDistance = 700;
+	//The number of pixels the player will travel per second
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
 		int dashSpeed = 100;
+	//Maximum amount of pixels the camera will shake per frame
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
+		int DashCameraShake = 3;
+	//Number of frames the camera will shake for
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
+		int CameraShakeTimer = 10;
+
+
 	void DashExecute();
 	void DashPrepare();
 	void Dash();
-
+	void ShakeCamera(int);
 
 public:	
 	// Called every frame

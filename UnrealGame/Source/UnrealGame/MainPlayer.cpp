@@ -35,6 +35,13 @@ void AMainPlayer::BeginPlay()
 	
 }
 
+void AMainPlayer::ShakeCamera(int maxDistance) {
+	int xdistance = 1;
+	int ydistance = 1;
+	
+	//Camera->
+}
+
 float AMainPlayer::getMoveDir() {
 	return horDir;
 }
@@ -61,6 +68,17 @@ void AMainPlayer::Tick(float DeltaTime)
 	if (dashing == true) {
 		Dash();
 	}
+	if (currShakeTime > 1) {
+		FVector ShakeAmount(0, FMath::RandRange(-DashCameraShake, DashCameraShake), FMath::RandRange(-DashCameraShake, DashCameraShake));
+		Camera->AddRelativeLocation(ShakeAmount);
+		currShakeTime -= 1;
+	}
+	else if (currShakeTime == 1) {
+		FVector returnPosition = GetWorld()->GetFirstPlayerController()->GetPawn()->GetActorLocation();
+		returnPosition.X += SpringArm->TargetArmLength;
+		Camera->SetWorldLocation(returnPosition);
+		currShakeTime -= 1;
+	}
 }
 
 
@@ -74,6 +92,7 @@ void AMainPlayer::DashExecute() {
 	dashDir = horDir;
 	dashDistanceRemaining = dashDistance;
 	dashing = true;
+	currShakeTime = CameraShakeTimer;
 }
 
 //Actually makes the player Dash
