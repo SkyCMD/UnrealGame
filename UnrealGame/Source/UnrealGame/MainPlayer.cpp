@@ -35,12 +35,6 @@ void AMainPlayer::BeginPlay()
 	
 }
 
-void AMainPlayer::ShakeCamera(int maxDistance) {
-	int xdistance = 1;
-	int ydistance = 1;
-	
-	//Camera->
-}
 
 float AMainPlayer::getMoveDir() {
 	return horDir;

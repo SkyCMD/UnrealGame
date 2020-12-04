@@ -66,7 +66,6 @@ protected:
 	void DashExecute();
 	void DashPrepare();
 	void Dash();
-	void ShakeCamera(int);
 
 public:	
 	// Called every frame
