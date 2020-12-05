@@ -7,7 +7,6 @@
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
-
 #include "MainPlayer.generated.h"
 
 UCLASS()
@@ -42,7 +41,7 @@ protected:
 	int dashDistanceRemaining;
 	float dashDir;
 	int currShakeTime;
-
+	FVector CameraPos;
 
 	UPROPERTY(VisibleAnywhere, BluePrintReadOnly, Category = "Dash")
 		bool prepForDash;

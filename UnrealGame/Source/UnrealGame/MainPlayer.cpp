@@ -11,11 +11,12 @@ AMainPlayer::AMainPlayer()
 
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>("SpringArm");
 	SpringArm->SetupAttachment(RootComponent);
-	SpringArm->TargetArmLength = 700.0f;
+	SpringArm->TargetArmLength = 900;
 	SpringArm->bInheritYaw = false;
 
 	Camera = CreateDefaultSubobject<UCameraComponent>("Camera");
 	Camera->SetupAttachment(SpringArm);
+	CameraPos = Camera->GetComponentLocation();
 
 	//Sets Rotation speed
 	FRotator rot(800, 800, 800);
@@ -57,7 +58,6 @@ void AMainPlayer::moveUp(float axis) {
 void AMainPlayer::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	//horDir = 0;
 	verDir = 0;
 	if (dashing == true) {
 		Dash();
@@ -70,7 +70,7 @@ void AMainPlayer::Tick(float DeltaTime)
 	else if (currShakeTime == 1) {
 		FVector returnPosition = GetWorld()->GetFirstPlayerController()->GetPawn()->GetActorLocation();
 		returnPosition.X += SpringArm->TargetArmLength;
-		Camera->SetWorldLocation(returnPosition);
+		returnPosition.X += CameraPos.X;
 		currShakeTime -= 1;
 	}
 }

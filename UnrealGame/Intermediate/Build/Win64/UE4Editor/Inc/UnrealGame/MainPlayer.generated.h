@@ -13,18 +13,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UNREALGAME_MainPlayer_generated_h
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_SPARSE_DATA
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_RPC_WRAPPERS \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_SPARSE_DATA
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execgetMoveDir);
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execgetMoveDir);
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_INCLASS_NO_PURE_DECLS \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMainPlayer(); \
 	friend struct Z_Construct_UClass_AMainPlayer_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(AMainPlayer)
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_INCLASS \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAMainPlayer(); \
 	friend struct Z_Construct_UClass_AMainPlayer_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(AMainPlayer)
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_STANDARD_CONSTRUCTORS \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMainPlayer(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMainPlayer) \
@@ -55,7 +55,7 @@ private: \
 public:
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_ENHANCED_CONSTRUCTORS \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMainPlayer(AMainPlayer&&); \
@@ -66,7 +66,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMainPlayer); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMainPlayer)
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_PRIVATE_PROPERTY_OFFSET \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__prepForDash() { return STRUCT_OFFSET(AMainPlayer, prepForDash); } \
 	FORCEINLINE static uint32 __PPO__dashing() { return STRUCT_OFFSET(AMainPlayer, dashing); } \
 	FORCEINLINE static uint32 __PPO__dashDistance() { return STRUCT_OFFSET(AMainPlayer, dashDistance); } \
@@ -75,27 +75,27 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMainPlayer); \
 	FORCEINLINE static uint32 __PPO__CameraShakeTimer() { return STRUCT_OFFSET(AMainPlayer, CameraShakeTimer); }
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_13_PROLOG
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_GENERATED_BODY_LEGACY \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_12_PROLOG
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_PRIVATE_PROPERTY_OFFSET \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_SPARSE_DATA \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_RPC_WRAPPERS \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_INCLASS \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_STANDARD_CONSTRUCTORS \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_PRIVATE_PROPERTY_OFFSET \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_SPARSE_DATA \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_RPC_WRAPPERS \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_INCLASS \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UnrealGame_Source_UnrealGame_MainPlayer_h_16_GENERATED_BODY \
+#define UnrealGame_Source_UnrealGame_MainPlayer_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_PRIVATE_PROPERTY_OFFSET \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_SPARSE_DATA \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_INCLASS_NO_PURE_DECLS \
-	UnrealGame_Source_UnrealGame_MainPlayer_h_16_ENHANCED_CONSTRUCTORS \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_PRIVATE_PROPERTY_OFFSET \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_SPARSE_DATA \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_INCLASS_NO_PURE_DECLS \
+	UnrealGame_Source_UnrealGame_MainPlayer_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
