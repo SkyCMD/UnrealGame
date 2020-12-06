@@ -39,7 +39,8 @@ protected:
 
 	//Code used for dashing
 	int dashDistanceRemaining;
-	float dashDir;
+	float horDashDir;
+	float verDashDir;
 	int currShakeTime;
 	FVector CameraPos;
 
@@ -61,10 +62,12 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
 		int CameraShakeTimer = 10;
 
-
-	void DashExecute();
-	void DashPrepare();
-	void Dash();
+	//Dash Methods
+		void DashExecute();
+		void DashPrepare();
+		void Dash();
+	//Camera shake
+		void ShakeCamera();
 
 public:	
 	// Called every frame
