@@ -1,12 +1,16 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame).
+  Parsing headers for UnrealGameEditor
+    Running UnrealHeaderTool "E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame.uproject" "E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\UnrealGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\boste\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for UnrealGameEditor in 4.8517829 seconds
   Building UnrealGameEditor...
   Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 12 processes...
-    [1/4] MainPlayer.cpp
-    [2/4] UE4Editor-UnrealGame-0041.lib
-       Creating library E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0041.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0041.exp
-    [3/4] UE4Editor-UnrealGame-0041.dll
-       Creating library E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0041.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0041.suppressed.exp
-    [4/4] UnrealGameEditor.target
-  Total time in Parallel executor: 1.38 seconds
-  Total execution time: 1.97 seconds
+  Building 5 actions with 12 processes...
+    [1/5] BreakableCrate.cpp
+    [2/5] BreakableCrate.gen.cpp
+    [3/5] UE4Editor-UnrealGame-0053.lib
+       Creating library E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0053.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0053.exp
+    [4/5] UE4Editor-UnrealGame-0053.dll
+       Creating library E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0053.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0053.suppressed.exp
+    [5/5] UnrealGameEditor.target
+  Total time in Parallel executor: 1.35 seconds
+  Total execution time: 6.93 seconds

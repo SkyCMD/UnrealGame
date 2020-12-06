@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{647D097E-664B-4D20-A135-2F33CA8CB3DE}</UniqueIdentifier>
+      <UniqueIdentifier>{2F415302-37F9-485A-B48C-D94104796FD5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealGame.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\SCK_Casual01.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{7D32F54C-A324-4A80-8261-23CA60C4EA36}</UniqueIdentifier>
+      <UniqueIdentifier>{E25878FB-7C11-4947-9F6F-22CA78780967}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,8 +31,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealGame">
-      <UniqueIdentifier>{4BB63239-6920-4100-854F-0BF50355AFFD}</UniqueIdentifier>
+      <UniqueIdentifier>{523EA019-4FFF-43CB-884A-608185E85FF1}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UnrealGame\BreakableCrate.cpp">
+      <Filter>Source\UnrealGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealGame\BreakableCrate.h">
+      <Filter>Source\UnrealGame</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\UnrealGame\DashCameraShake.cpp">
       <Filter>Source\UnrealGame</Filter>
     </ClCompile>
