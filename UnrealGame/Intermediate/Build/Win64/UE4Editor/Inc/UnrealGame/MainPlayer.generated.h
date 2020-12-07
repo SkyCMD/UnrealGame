@@ -16,11 +16,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_15_SPARSE_DATA
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_15_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execZoomCamera); \
+	DECLARE_FUNCTION(execShakeCamera); \
 	DECLARE_FUNCTION(execgetMoveDir);
 
 
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execZoomCamera); \
+	DECLARE_FUNCTION(execShakeCamera); \
 	DECLARE_FUNCTION(execgetMoveDir);
 
 
@@ -68,11 +72,16 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMainPlayer); \
 
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__prepForDash() { return STRUCT_OFFSET(AMainPlayer, prepForDash); } \
-	FORCEINLINE static uint32 __PPO__dashing() { return STRUCT_OFFSET(AMainPlayer, dashing); } \
+	FORCEINLINE static uint32 __PPO__CanDash() { return STRUCT_OFFSET(AMainPlayer, CanDash); } \
+	FORCEINLINE static uint32 __PPO__Dashing() { return STRUCT_OFFSET(AMainPlayer, Dashing); } \
 	FORCEINLINE static uint32 __PPO__dashDistance() { return STRUCT_OFFSET(AMainPlayer, dashDistance); } \
 	FORCEINLINE static uint32 __PPO__dashSpeed() { return STRUCT_OFFSET(AMainPlayer, dashSpeed); } \
-	FORCEINLINE static uint32 __PPO__DashCameraShake() { return STRUCT_OFFSET(AMainPlayer, DashCameraShake); } \
-	FORCEINLINE static uint32 __PPO__CameraShakeTimer() { return STRUCT_OFFSET(AMainPlayer, CameraShakeTimer); }
+	FORCEINLINE static uint32 __PPO__freezeFrameTimer() { return STRUCT_OFFSET(AMainPlayer, freezeFrameTimer); } \
+	FORCEINLINE static uint32 __PPO__HitBox() { return STRUCT_OFFSET(AMainPlayer, HitBox); } \
+	FORCEINLINE static uint32 __PPO__CameraShakeDistance() { return STRUCT_OFFSET(AMainPlayer, CameraShakeDistance); } \
+	FORCEINLINE static uint32 __PPO__CameraShakeTimer() { return STRUCT_OFFSET(AMainPlayer, CameraShakeTimer); } \
+	FORCEINLINE static uint32 __PPO__zoomAmount() { return STRUCT_OFFSET(AMainPlayer, zoomAmount); } \
+	FORCEINLINE static uint32 __PPO__zoomSpeed() { return STRUCT_OFFSET(AMainPlayer, zoomSpeed); }
 
 
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_12_PROLOG

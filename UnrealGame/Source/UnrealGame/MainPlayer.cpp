@@ -29,11 +29,38 @@ AMainPlayer::AMainPlayer()
 	GetCharacterMovement()->Mass = 900;
 }
 
+// Called every frame
+void AMainPlayer::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+	if (Dashing == true) {
+		Dash();
+		GetCharacterMovement()->GravityScale = 0;
+		if (HitBox) {
+			if (freezeFrameTimer > 1) {
+				currShakeTime = CameraShakeTimer;
+				ShakeCamera(CameraShakeDistance * 2, CameraShakeDistance * 2);
+				freezeFrameTimer--;
+			}
+			else {
+				HitBox = false;
+			}
+		}
+		else {
+			ShakeCamera(CameraShakeDistance, CameraShakeDistance);
+		}
+	}
+	else {
+		GetCharacterMovement()->GravityScale = 4;
+	}
+	ZoomCamera();
+}
+
+
 // Called when the game starts or when spawned
 	void AMainPlayer::BeginPlay()
 	{
 		Super::BeginPlay();
-	
 	}
 
 //Code for horizontal and vertical movemnt
@@ -42,7 +69,7 @@ AMainPlayer::AMainPlayer()
 	}
 
 	void AMainPlayer::moveRight(float axis) {
-		if (!prepForDash && !dashing) {
+		if (!prepForDash && !Dashing) {
 			FVector dir(0, axis, 0);
 			AddMovementInput(dir, -1);
 		}
@@ -54,20 +81,51 @@ AMainPlayer::AMainPlayer()
 		verDir = axis;
 	}
 
-// Called every frame
-	void AMainPlayer::Tick(float DeltaTime)
-	{
-		Super::Tick(DeltaTime);
-		if (dashing == true) {
-			Dash();
+
+//Dash Code
+	//These functions just exist so you can tell whether or not the player is going to try to dash
+	void AMainPlayer::DashPrepare() {
+		//GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, "Hello", false);
+		if (!Dashing && CanDash) {
+			prepForDash = true;
+			this->CustomTimeDilation = 0.24;
 		}
-		ShakeCamera();
 	}
 
+	void AMainPlayer::DashExecute() {
+		if (CanDash) {
+			prepForDash = false;
+			CanDash = false;
+			horDashDir = horDir;
+			verDashDir = verDir;
+			dashDistanceRemaining = dashDistance;
+			Dashing = true;
+			this->CustomTimeDilation = 1;
+			currShakeTime = CameraShakeTimer;
+		}
+	}
 
-	void AMainPlayer::ShakeCamera() {
+	//Actually makes the player Dash
+	void AMainPlayer::Dash() {
+		FVector loc = GetActorLocation();
+		if (dashDistanceRemaining - dashSpeed > 0) {
+			loc.Y += (dashSpeed * (-horDashDir)); //Takes the direction the player is pressing and multiplies it by the speed you want to dash
+			loc.Z += (dashSpeed * (verDashDir));
+			verDashDir *= .95;
+			SetActorLocation(loc, true); //Actually moves the character
+			dashDistanceRemaining -= dashSpeed;
+		}
+		else {
+			loc.Y += (dashDistanceRemaining * (-horDashDir));
+			SetActorLocation(loc, true);
+			Dashing = false;
+		}
+	}
+
+//Camera Shake Code
+	void AMainPlayer::ShakeCamera(int rangeX, int rangeY) {
 		if (currShakeTime > 1) {
-			FVector ShakeAmount(0, FMath::RandRange(-DashCameraShake, DashCameraShake), FMath::RandRange(-DashCameraShake, DashCameraShake));
+			FVector ShakeAmount(0, FMath::RandRange(-rangeX, rangeX), FMath::RandRange(-rangeY, rangeY));
 			Camera->AddRelativeLocation(ShakeAmount);
 			currShakeTime -= 1;
 		}
@@ -78,44 +136,16 @@ AMainPlayer::AMainPlayer()
 			currShakeTime -= 1;
 		}
 	}
-
-//These functions just exist so you can tell whether or not the player is going to try to dash
-
-	void AMainPlayer::DashPrepare() {
-		//GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, "Hello", false);
-		if (!dashing) {
-			prepForDash = true;
-			this->CustomTimeDilation = 0.24;
+//Code for zooming camera in and out
+	void AMainPlayer::ZoomCamera() {
+		if (currZoom+zoomSpeed < FMath::Abs(zoomAmount)) {
+			SpringArm->TargetArmLength += zoomSpeed*(zoomAmount/FMath::Abs(zoomAmount));
+			currZoom += zoomSpeed;
 		}
-	}
-
-	void AMainPlayer::DashExecute() {
-		prepForDash = false;
-		horDashDir = horDir;
-		verDashDir = verDir;
-		dashDistanceRemaining = dashDistance;
-		dashing = true;
-		this->CustomTimeDilation = 1;
-		currShakeTime = CameraShakeTimer;
-	}
-
-//Actually makes the player Dash
-	void AMainPlayer::Dash() {
-		FVector loc = GetActorLocation();
-		if (dashDistanceRemaining - dashSpeed > 0) {
-			loc.Y += (dashSpeed * (-horDashDir)); //Takes the direction the player is pressing and multiplies it by the speed you want to dash
-			loc.Z += (dashSpeed * (verDashDir));
-			SetActorLocation(loc, true); //Actually moves the character
-			dashDistanceRemaining -= dashSpeed;
+		else if (currZoom < FMath::Abs(zoomAmount)) {
+			SpringArm->TargetArmLength += zoomAmount - (currZoom*(zoomAmount / FMath::Abs(zoomAmount)));
+			currZoom = FMath::Abs(zoomAmount)+1;
 		}
-		else {
-			loc.Y += (dashDistanceRemaining * (-horDashDir));
-			SetActorLocation(loc, true);
-			dashing = false;
-		}
-
-	
-
 	}
 
 // Called to bind functionality to input
@@ -129,6 +159,5 @@ AMainPlayer::AMainPlayer()
 
 		PlayerInputComponent->BindAxis("VerticalMove", this, &AMainPlayer::moveUp);
 		PlayerInputComponent->BindAxis("Move", this, &AMainPlayer::moveRight);
-	
 	}
 

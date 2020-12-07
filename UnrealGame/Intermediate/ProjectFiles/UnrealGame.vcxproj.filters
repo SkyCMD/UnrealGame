@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2F415302-37F9-485A-B48C-D94104796FD5}</UniqueIdentifier>
+      <UniqueIdentifier>{0B2C07A1-C49A-4674-B1EC-15321ED4C487}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealGame.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\SCK_Casual01.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E25878FB-7C11-4947-9F6F-22CA78780967}</UniqueIdentifier>
+      <UniqueIdentifier>{1083EA70-E9F7-4F79-A782-504130E3CAB8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealGame">
-      <UniqueIdentifier>{523EA019-4FFF-43CB-884A-608185E85FF1}</UniqueIdentifier>
+      <UniqueIdentifier>{62170AE8-E60B-4D46-B821-F6D59D0EC346}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UnrealGame\BreakableCrate.cpp">
       <Filter>Source\UnrealGame</Filter>
