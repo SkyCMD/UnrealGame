@@ -33,8 +33,11 @@ protected:
 		int ySpeed;
 	UPROPERTY(EditAnywhere, Category = "Movement")
 		int xSpeed;
+	UPROPERTY(EditAnywhere, Category = "Movement")
+		bool reverseAtEnd;
 
 	void Move();
+	void Reverse();
 
 public:	
 	// Called every frame

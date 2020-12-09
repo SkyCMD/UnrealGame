@@ -23,30 +23,36 @@ void AMovingPlatform::Move() {
 		position.X += xSpeed;
 		currXPos += FMath::Abs(xSpeed);
 	}
-	else {
-		xSpeed = -xSpeed;
-		currXPos = 0;
-	}
+
 	if (currYPos < yDistance) {
 		position.Y += ySpeed;
 		currYPos += FMath::Abs(ySpeed);
 	}
-	else {
-		ySpeed = -ySpeed;
-		currYPos = 0;
-	}
+
 	if (currZPos < zDistance) {
 		position.Z += zSpeed;
 		currZPos += FMath::Abs(zSpeed);
 	}
-	else {
+	if (reverseAtEnd) {
+		Reverse();
+	}
+	SetActorLocation(position);
+}
+//GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, "Hello", false);
+void AMovingPlatform::Reverse() {
+	if(currXPos >= xDistance) {
+		xSpeed = -xSpeed;
+		currXPos = 0;
+	}
+	if(currYPos >= yDistance) {
+		ySpeed = -ySpeed;
+		currYPos = 0;
+	}
+	if(currZPos >= zDistance) {
 		zSpeed = -zSpeed;
 		currZPos = 0;
 	}
-
-	SetActorLocation(position);
 }
-
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
 {
