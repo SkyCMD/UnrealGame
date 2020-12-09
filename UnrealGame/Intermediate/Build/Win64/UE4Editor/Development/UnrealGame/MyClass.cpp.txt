@@ -1,0 +1,2 @@
+E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\Definitions.UnrealGame.h
+E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Source\UnrealGame\MyClass.h

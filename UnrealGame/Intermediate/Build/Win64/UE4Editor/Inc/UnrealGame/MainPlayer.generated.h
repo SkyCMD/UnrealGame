@@ -71,6 +71,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMainPlayer); \
 
 
 #define UnrealGame_Source_UnrealGame_MainPlayer_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__startPos() { return STRUCT_OFFSET(AMainPlayer, startPos); } \
 	FORCEINLINE static uint32 __PPO__prepForDash() { return STRUCT_OFFSET(AMainPlayer, prepForDash); } \
 	FORCEINLINE static uint32 __PPO__CanDash() { return STRUCT_OFFSET(AMainPlayer, CanDash); } \
 	FORCEINLINE static uint32 __PPO__Dashing() { return STRUCT_OFFSET(AMainPlayer, Dashing); } \
@@ -80,7 +81,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMainPlayer); \
 	FORCEINLINE static uint32 __PPO__HitBox() { return STRUCT_OFFSET(AMainPlayer, HitBox); } \
 	FORCEINLINE static uint32 __PPO__CameraShakeDistance() { return STRUCT_OFFSET(AMainPlayer, CameraShakeDistance); } \
 	FORCEINLINE static uint32 __PPO__CameraShakeTimer() { return STRUCT_OFFSET(AMainPlayer, CameraShakeTimer); } \
-	FORCEINLINE static uint32 __PPO__zoomAmount() { return STRUCT_OFFSET(AMainPlayer, zoomAmount); } \
+	FORCEINLINE static uint32 __PPO__zoomLevel() { return STRUCT_OFFSET(AMainPlayer, zoomLevel); } \
 	FORCEINLINE static uint32 __PPO__zoomSpeed() { return STRUCT_OFFSET(AMainPlayer, zoomSpeed); }
 
 

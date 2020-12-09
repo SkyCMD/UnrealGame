@@ -29,6 +29,8 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	UPROPERTY(VisibleAnywhere, BluePrintReadOnly, Category = "Death")
+		FVector startPos;
 
 	//Code used for basic movement
 		float horDir;
@@ -82,7 +84,7 @@ protected:
 	//Camera Zoom
 		int currZoom;
 		UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Camera")
-			int zoomAmount;
+			int zoomLevel;
 		UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Camera")
 			int zoomSpeed = 2;
 		UFUNCTION(BlueprintCallable, Category = "Camera")

@@ -13,6 +13,8 @@ AMainPlayer::AMainPlayer()
 	SpringArm->SetupAttachment(RootComponent);
 	SpringArm->TargetArmLength = 900;
 	SpringArm->bInheritYaw = false;
+	currZoom = SpringArm->TargetArmLength;
+	zoomLevel = currZoom;
 
 	Camera = CreateDefaultSubobject<UCameraComponent>("Camera");
 	Camera->SetupAttachment(SpringArm);
@@ -27,33 +29,36 @@ AMainPlayer::AMainPlayer()
 	GetCharacterMovement()->bOrientRotationToMovement = true;
 	GetCharacterMovement()->RotationRate = rot;
 	GetCharacterMovement()->Mass = 900;
+
+
 }
 
 // Called every frame
 void AMainPlayer::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	if (Dashing == true) {
-		Dash();
-		GetCharacterMovement()->GravityScale = 0;
-		if (HitBox) {
-			if (freezeFrameTimer > 1) {
-				currShakeTime = CameraShakeTimer;
-				ShakeCamera(CameraShakeDistance * 2, CameraShakeDistance * 2);
-				freezeFrameTimer--;
+
+		if (Dashing == true){
+			Dash();
+			GetCharacterMovement()->GravityScale = 0;
+			if (HitBox) {
+				if (freezeFrameTimer > 1) {
+					currShakeTime = CameraShakeTimer;
+					ShakeCamera(CameraShakeDistance * 2, CameraShakeDistance * 2);
+					freezeFrameTimer--;
+				}
+				else {
+					HitBox = false;
+				}
 			}
 			else {
-				HitBox = false;
+				ShakeCamera(CameraShakeDistance, CameraShakeDistance);
 			}
 		}
 		else {
-			ShakeCamera(CameraShakeDistance, CameraShakeDistance);
+			GetCharacterMovement()->GravityScale = 4;
 		}
-	}
-	else {
-		GetCharacterMovement()->GravityScale = 4;
-	}
-	ZoomCamera();
+		ZoomCamera();
 }
 
 
@@ -61,6 +66,7 @@ void AMainPlayer::Tick(float DeltaTime)
 	void AMainPlayer::BeginPlay()
 	{
 		Super::BeginPlay();
+		startPos = GetActorLocation();
 	}
 
 //Code for horizontal and vertical movemnt
@@ -107,17 +113,22 @@ void AMainPlayer::Tick(float DeltaTime)
 
 	//Actually makes the player Dash
 	void AMainPlayer::Dash() {
-		FVector loc = GetActorLocation();
+		FVector dashY = GetActorLocation();
+		FVector dashZ = GetActorLocation();
 		if (dashDistanceRemaining - dashSpeed > 0) {
-			loc.Y += (dashSpeed * (-horDashDir)); //Takes the direction the player is pressing and multiplies it by the speed you want to dash
-			loc.Z += (dashSpeed * (verDashDir));
-			verDashDir *= .95;
-			SetActorLocation(loc, true); //Actually moves the character
+			dashY.Y += (dashSpeed * (-horDashDir)); //Takes the direction the player is pressing and multiplies it by the speed you want to dash
+			SetActorLocation(dashY, true);
+			dashZ = GetActorLocation();
+			dashZ.Z += (dashSpeed * (verDashDir));
+			//verDashDir *= .95
+			SetActorLocation(dashZ, true);
 			dashDistanceRemaining -= dashSpeed;
 		}
 		else {
-			loc.Y += (dashDistanceRemaining * (-horDashDir));
-			SetActorLocation(loc, true);
+			dashY.Y += (dashDistanceRemaining * (-horDashDir));
+			//dashZ.Z += (dashSpeed * (verDashDir));
+			SetActorLocation(dashY, true);
+			SetActorLocation(dashZ, true);
 			Dashing = false;
 		}
 	}
@@ -138,13 +149,37 @@ void AMainPlayer::Tick(float DeltaTime)
 	}
 //Code for zooming camera in and out
 	void AMainPlayer::ZoomCamera() {
-		if (currZoom+zoomSpeed < FMath::Abs(zoomAmount)) {
-			SpringArm->TargetArmLength += zoomSpeed*(zoomAmount/FMath::Abs(zoomAmount));
+		if (currZoom < zoomLevel) {
+			if (currZoom + zoomSpeed < zoomLevel) {
+				SpringArm->TargetArmLength += zoomSpeed;
+				currZoom += zoomSpeed;
+			}
+			else {
+				SpringArm->TargetArmLength = zoomLevel;
+				currZoom = zoomLevel;
+			}
+		}
+		else if(currZoom > zoomLevel) {
+			if (currZoom - zoomSpeed > zoomLevel) {
+				SpringArm->TargetArmLength -= zoomSpeed;
+				currZoom -= zoomSpeed;
+			}
+			else {
+				SpringArm->TargetArmLength = zoomLevel;
+				currZoom = zoomLevel;
+			}
+		}
+
+
+
+
+		if (currZoom+zoomSpeed < FMath::Abs(zoomLevel)) {
+			SpringArm->TargetArmLength += zoomSpeed*(zoomLevel/FMath::Abs(zoomLevel));
 			currZoom += zoomSpeed;
 		}
-		else if (currZoom < FMath::Abs(zoomAmount)) {
-			SpringArm->TargetArmLength += zoomAmount - (currZoom*(zoomAmount / FMath::Abs(zoomAmount)));
-			currZoom = FMath::Abs(zoomAmount)+1;
+		else if (currZoom < FMath::Abs(zoomLevel)) {
+			SpringArm->TargetArmLength += zoomLevel - (currZoom*(zoomLevel / FMath::Abs(zoomLevel)));
+			currZoom = FMath::Abs(zoomLevel)+1;
 		}
 	}
 
@@ -152,7 +187,6 @@ void AMainPlayer::Tick(float DeltaTime)
 	void AMainPlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 	{
 		Super::SetupPlayerInputComponent(PlayerInputComponent);
-
 		PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AMainPlayer::Jump);
 		PlayerInputComponent->BindAction("PlayerDash", IE_Pressed, this, &AMainPlayer::DashPrepare);
 		PlayerInputComponent->BindAction("PlayerDash", IE_Released, this, &AMainPlayer::DashExecute);
