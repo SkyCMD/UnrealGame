@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\CJ\\Desktop\\Game\\UnrealGame\\UnrealGame\\Source\\UnrealGame\\UnrealGame.Build.cs",
-		"C:\\Users\\CJ\\Desktop\\Game\\UnrealGame\\UnrealGame\\Source\\UnrealGame.Target.cs",
-		"C:\\Users\\CJ\\Desktop\\Game\\UnrealGame\\UnrealGame\\Source\\UnrealGameEditor.Target.cs"
+		"C:\\Users\\Skyler\\Desktop\\UnrealGame\\UnrealGame\\Source\\UnrealGame\\UnrealGame.Build.cs",
+		"C:\\Users\\Skyler\\Desktop\\UnrealGame\\UnrealGame\\Source\\UnrealGame.Target.cs",
+		"C:\\Users\\Skyler\\Desktop\\UnrealGame\\UnrealGame\\Source\\UnrealGameEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }
