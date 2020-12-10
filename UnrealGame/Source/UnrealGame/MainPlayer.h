@@ -29,7 +29,7 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-	UPROPERTY(VisibleAnywhere, BluePrintReadOnly, Category = "Death")
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Death")
 		FVector startPos;
 
 	//Code used for basic movement
@@ -73,10 +73,10 @@ protected:
 	//Camera shake
 		//Maximum amount of pixels the camera will shake per frame
 		UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
-			int CameraShakeDistance = 3;
+			int CameraShakeDistance = 10;
 		//Number of frames the camera will shake for
 		UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Dash")
-			int CameraShakeTimer = 10;
+			int CameraShakeTimer = 15;
 	
 		UFUNCTION(BlueprintCallable, Category = "Dash")
 			void ShakeCamera(int rangeX, int rangeY);

@@ -345,7 +345,7 @@ void EmptyLinkFunctionForGeneratedCodeMainPlayer() {}
 		{ "ModuleRelativePath", "MainPlayer.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_AMainPlayer_Statics::NewProp_startPos = { "startPos", nullptr, (EPropertyFlags)0x0020080000020015, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMainPlayer, startPos), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AMainPlayer_Statics::NewProp_startPos_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMainPlayer_Statics::NewProp_startPos_MetaData)) };
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_AMainPlayer_Statics::NewProp_startPos = { "startPos", nullptr, (EPropertyFlags)0x0020080000020005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMainPlayer, startPos), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AMainPlayer_Statics::NewProp_startPos_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMainPlayer_Statics::NewProp_startPos_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMainPlayer_Statics::NewProp_Camera_MetaData[] = {
 		{ "Category", "Camera" },
@@ -405,7 +405,7 @@ void EmptyLinkFunctionForGeneratedCodeMainPlayer() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMainPlayer, 3504280729);
+	IMPLEMENT_CLASS(AMainPlayer, 3798111390);
 	template<> UNREALGAME_API UClass* StaticClass<AMainPlayer>()
 	{
 		return AMainPlayer::StaticClass();

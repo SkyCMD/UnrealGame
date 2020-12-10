@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "Kismet/GameplayStatics.h"
 #include "MovingPlatform.generated.h"
 
 UCLASS()
@@ -14,6 +15,8 @@ class UNREALGAME_API AMovingPlatform : public AActor
 public:	
 	// Sets default values for this actor's properties
 	AMovingPlatform();
+	AMovingPlatform(int, int, int, int, int, int, bool);
+	UGameplayStatics* stats;
 
 protected:
 	// Called when the game starts or when spawned
@@ -33,9 +36,12 @@ protected:
 		int ySpeed;
 	UPROPERTY(EditAnywhere, Category = "Movement")
 		int xSpeed;
-	UPROPERTY(EditAnywhere, Category = "Movement")
-		bool reverseAtEnd;
 
+	UPROPERTY(EditAnywhere, Category = "Movement Options")
+		bool reverseAtEnd;
+	//Leave at 0 if you want it to be active no matter what
+	UPROPERTY(EditAnywhere, Category = "Movement Options")
+		int activateWithinDistance;
 	void Move();
 	void Reverse();
 

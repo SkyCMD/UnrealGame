@@ -18,7 +18,6 @@ AMainPlayer::AMainPlayer()
 
 	Camera = CreateDefaultSubobject<UCameraComponent>("Camera");
 	Camera->SetupAttachment(SpringArm);
-	CameraPos = Camera->GetComponentLocation();
 
 	//Sets Rotation speed
 	FRotator rot(800, 800, 800);
@@ -29,8 +28,6 @@ AMainPlayer::AMainPlayer()
 	GetCharacterMovement()->bOrientRotationToMovement = true;
 	GetCharacterMovement()->RotationRate = rot;
 	GetCharacterMovement()->Mass = 900;
-
-
 }
 
 // Called every frame
@@ -41,23 +38,11 @@ void AMainPlayer::Tick(float DeltaTime)
 		if (Dashing == true){
 			Dash();
 			GetCharacterMovement()->GravityScale = 0;
-			if (HitBox) {
-				if (freezeFrameTimer > 1) {
-					currShakeTime = CameraShakeTimer;
-					ShakeCamera(CameraShakeDistance * 2, CameraShakeDistance * 2);
-					freezeFrameTimer--;
-				}
-				else {
-					HitBox = false;
-				}
-			}
-			else {
-				ShakeCamera(CameraShakeDistance, CameraShakeDistance);
-			}
 		}
 		else {
 			GetCharacterMovement()->GravityScale = 4;
 		}
+		ShakeCamera(CameraShakeDistance, CameraShakeDistance);
 		ZoomCamera();
 }
 
@@ -106,8 +91,11 @@ void AMainPlayer::Tick(float DeltaTime)
 			verDashDir = verDir;
 			dashDistanceRemaining = dashDistance;
 			Dashing = true;
-			this->CustomTimeDilation = 1;
 			currShakeTime = CameraShakeTimer;
+			this->CustomTimeDilation = 1;
+			CameraPos = Camera->GetComponentLocation();
+			CameraPos.Y = GetActorLocation().Y - CameraPos.Y;
+			CameraPos.Z = GetActorLocation().Z - CameraPos.Z;
 		}
 	}
 
@@ -131,6 +119,7 @@ void AMainPlayer::Tick(float DeltaTime)
 			SetActorLocation(dashZ, true);
 			Dashing = false;
 		}
+
 	}
 
 //Camera Shake Code
@@ -143,7 +132,9 @@ void AMainPlayer::Tick(float DeltaTime)
 		else if (currShakeTime == 1) {
 			FVector returnPosition = GetWorld()->GetFirstPlayerController()->GetPawn()->GetActorLocation();
 			returnPosition.X += SpringArm->TargetArmLength;
-			returnPosition.X += CameraPos.X;
+			returnPosition.Y += CameraPos.Y;
+			returnPosition.Z -= CameraPos.Z;
+			Camera->SetWorldLocation(returnPosition);
 			currShakeTime -= 1;
 		}
 	}
@@ -169,10 +160,6 @@ void AMainPlayer::Tick(float DeltaTime)
 				currZoom = zoomLevel;
 			}
 		}
-
-
-
-
 		if (currZoom+zoomSpeed < FMath::Abs(zoomLevel)) {
 			SpringArm->TargetArmLength += zoomSpeed*(zoomLevel/FMath::Abs(zoomLevel));
 			currZoom += zoomSpeed;
