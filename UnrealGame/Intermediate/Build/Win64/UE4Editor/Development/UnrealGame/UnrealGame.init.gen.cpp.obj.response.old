@@ -230,8 +230,8 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGame"
-/I "E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Source"
+/I "E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGame"
+/I "E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGame\UnrealGame.init.gen.cpp"
-/FI"E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\Definitions.UnrealGame.h"
-/Fo"E:\Unreal Projects\UnrealGameNew\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UnrealGame.init.gen.cpp.obj"
+/FI"E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGame\UnrealGame.init.gen.cpp"
+/FI"E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\Definitions.UnrealGame.h"
+/Fo"E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UnrealGame.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
