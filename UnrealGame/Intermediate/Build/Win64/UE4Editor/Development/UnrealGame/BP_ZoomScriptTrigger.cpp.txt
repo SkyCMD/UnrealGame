@@ -1,3 +1,3 @@
-C:\Users\CJ\Desktop\Game\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\Definitions.UnrealGame.h
-C:\Users\CJ\Desktop\Game\UnrealGame\UnrealGame\Source\UnrealGame\BP_ZoomScriptTrigger.h
-C:\Users\CJ\Desktop\Game\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGame\BP_ZoomScriptTrigger.generated.h
+D:\Users\Skyler\Documents\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\Definitions.UnrealGame.h
+D:\Users\Skyler\Documents\Unreal Projects\UnrealGame\UnrealGame\Source\UnrealGame\BP_ZoomScriptTrigger.h
+D:\Users\Skyler\Documents\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGame\BP_ZoomScriptTrigger.generated.h
