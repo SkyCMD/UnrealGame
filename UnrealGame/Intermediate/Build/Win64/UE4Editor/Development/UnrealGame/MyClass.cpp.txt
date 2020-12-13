@@ -1,2 +1,2 @@
-D:\Users\Skyler\Documents\Unreal Projects\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\Definitions.UnrealGame.h
-D:\Users\Skyler\Documents\Unreal Projects\UnrealGame\UnrealGame\Source\UnrealGame\MyClass.h
+C:\Users\CJ\Desktop\Game\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\Definitions.UnrealGame.h
+C:\Users\CJ\Desktop\Game\UnrealGame\UnrealGame\Source\UnrealGame\MyClass.h
