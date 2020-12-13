@@ -57,37 +57,48 @@ void AMovingPlatform::Move() {
 	if (reverseAtEnd) {
 		Reverse();
 	}
+	else if (CheckIfComplete(currXPos, xDistance) || CheckIfComplete(currYPos, yDistance) || CheckIfComplete(currZPos, zDistance)) {
+		reachedEnd = true;
+	}
 	SetActorLocation(position);
 }
 //GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, "Hello", false);
 void AMovingPlatform::Reverse() {
-	if(currXPos >= xDistance) {
+	if(currXPos >= xDistance && xDistance != 0) {
 		xSpeed = -xSpeed;
 		currXPos = 0;
 	}
-	if(currYPos >= yDistance) {
+	if(currYPos >= yDistance && yDistance != 0) {
 		ySpeed = -ySpeed;
 		currYPos = 0;
 	}
-	if(currZPos >= zDistance) {
+	if(currZPos >= zDistance && zDistance != 0) {
 		zSpeed = -zSpeed;
 		currZPos = 0;
 	}
+}
+
+bool AMovingPlatform::CheckIfComplete(int axis, int endPoint) {
+	if (axis < endPoint || endPoint == 0) {
+		return false;
+	}
+	return true;
 }
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	
 	Super::Tick(DeltaTime);
-	if (activateWithinDistance != 0) {
-		int distance = GetDistanceTo(GetWorld()->GetFirstPlayerController()->GetPawn());
-		if (distance < activateWithinDistance) {
+	if (!reachedEnd) {
+		if (activateWithinDistance != 0) {
+			int distance = GetDistanceTo(GetWorld()->GetFirstPlayerController()->GetPawn());
+			if (distance < activateWithinDistance) {
+				Move();
+			}
+		}
+		else {
 			Move();
 		}
 	}
-	else {
-		Move();
-	}
-	
 }
 

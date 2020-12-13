@@ -66,6 +66,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMovingPlatform); \
 	FORCEINLINE static uint32 __PPO__ySpeed() { return STRUCT_OFFSET(AMovingPlatform, ySpeed); } \
 	FORCEINLINE static uint32 __PPO__xSpeed() { return STRUCT_OFFSET(AMovingPlatform, xSpeed); } \
 	FORCEINLINE static uint32 __PPO__reverseAtEnd() { return STRUCT_OFFSET(AMovingPlatform, reverseAtEnd); } \
+	FORCEINLINE static uint32 __PPO__reachedEnd() { return STRUCT_OFFSET(AMovingPlatform, reachedEnd); } \
 	FORCEINLINE static uint32 __PPO__activateWithinDistance() { return STRUCT_OFFSET(AMovingPlatform, activateWithinDistance); }
 
 

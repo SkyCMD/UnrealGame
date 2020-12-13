@@ -36,9 +36,12 @@ protected:
 		int ySpeed;
 	UPROPERTY(EditAnywhere, Category = "Movement")
 		int xSpeed;
-
 	UPROPERTY(EditAnywhere, Category = "Movement Options")
 		bool reverseAtEnd;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Movement Options")
+		bool reachedEnd = false;
+	bool CheckIfComplete(int, int);
+	
 	//Leave at 0 if you want it to be active no matter what
 	UPROPERTY(EditAnywhere, Category = "Movement Options")
 		int activateWithinDistance;
