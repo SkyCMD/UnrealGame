@@ -67,7 +67,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMovingPlatform); \
 	FORCEINLINE static uint32 __PPO__xSpeed() { return STRUCT_OFFSET(AMovingPlatform, xSpeed); } \
 	FORCEINLINE static uint32 __PPO__reverseAtEnd() { return STRUCT_OFFSET(AMovingPlatform, reverseAtEnd); } \
 	FORCEINLINE static uint32 __PPO__reachedEnd() { return STRUCT_OFFSET(AMovingPlatform, reachedEnd); } \
-	FORCEINLINE static uint32 __PPO__activateWithinDistance() { return STRUCT_OFFSET(AMovingPlatform, activateWithinDistance); }
+	FORCEINLINE static uint32 __PPO__useActivationBox() { return STRUCT_OFFSET(AMovingPlatform, useActivationBox); } \
+	FORCEINLINE static uint32 __PPO__startMoving() { return STRUCT_OFFSET(AMovingPlatform, startMoving); }
 
 
 #define UnrealGame_Source_UnrealGame_MovingPlatform_h_10_PROLOG

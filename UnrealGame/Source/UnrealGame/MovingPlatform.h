@@ -44,7 +44,9 @@ protected:
 	
 	//Leave at 0 if you want it to be active no matter what
 	UPROPERTY(EditAnywhere, Category = "Movement Options")
-		int activateWithinDistance;
+		bool useActivationBox;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Movement")
+		bool startMoving;
 	void Move();
 	void Reverse();
 

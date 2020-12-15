@@ -36,6 +36,7 @@ void AMovingPlatform::BeginPlay()
 		zDistance = FMath::Abs(zDistance);
 		zSpeed = -zSpeed;
 	}
+	startMoving = !useActivationBox;
 }
 
 void AMovingPlatform::Move() {
@@ -89,16 +90,8 @@ void AMovingPlatform::Tick(float DeltaTime)
 {
 	
 	Super::Tick(DeltaTime);
-	if (!reachedEnd) {
-		if (activateWithinDistance != 0) {
-			int distance = GetDistanceTo(GetWorld()->GetFirstPlayerController()->GetPawn());
-			if (distance < activateWithinDistance) {
-				Move();
-			}
-		}
-		else {
-			Move();
-		}
+	if (!reachedEnd && startMoving) {
+		Move();
 	}
 }
 
