@@ -14,8 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define UNREALGAME_MovingPlatform_generated_h
 
 #define UnrealGame_Source_UnrealGame_MovingPlatform_h_13_SPARSE_DATA
-#define UnrealGame_Source_UnrealGame_MovingPlatform_h_13_RPC_WRAPPERS
-#define UnrealGame_Source_UnrealGame_MovingPlatform_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define UnrealGame_Source_UnrealGame_MovingPlatform_h_13_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execReturnToStart);
+
+
+#define UnrealGame_Source_UnrealGame_MovingPlatform_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execReturnToStart);
+
+
 #define UnrealGame_Source_UnrealGame_MovingPlatform_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMovingPlatform(); \
@@ -68,7 +76,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMovingPlatform); \
 	FORCEINLINE static uint32 __PPO__reverseAtEnd() { return STRUCT_OFFSET(AMovingPlatform, reverseAtEnd); } \
 	FORCEINLINE static uint32 __PPO__reachedEnd() { return STRUCT_OFFSET(AMovingPlatform, reachedEnd); } \
 	FORCEINLINE static uint32 __PPO__useActivationBox() { return STRUCT_OFFSET(AMovingPlatform, useActivationBox); } \
-	FORCEINLINE static uint32 __PPO__startMoving() { return STRUCT_OFFSET(AMovingPlatform, startMoving); }
+	FORCEINLINE static uint32 __PPO__startMoving() { return STRUCT_OFFSET(AMovingPlatform, startMoving); } \
+	FORCEINLINE static uint32 __PPO__startReturning() { return STRUCT_OFFSET(AMovingPlatform, startReturning); }
 
 
 #define UnrealGame_Source_UnrealGame_MovingPlatform_h_10_PROLOG

@@ -38,7 +38,7 @@ protected:
 		int xSpeed;
 	UPROPERTY(EditAnywhere, Category = "Movement Options")
 		bool reverseAtEnd;
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Movement Options")
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Movement Options")
 		bool reachedEnd = false;
 	bool CheckIfComplete(int, int);
 	
@@ -47,8 +47,14 @@ protected:
 		bool useActivationBox;
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Movement")
 		bool startMoving;
+
+	FVector startPos;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Movement")
+		bool startReturning = false;
 	void Move();
 	void Reverse();
+	UFUNCTION(BlueprintCallable, Category = "Movement")
+		int ReturnToStart();
 
 public:	
 	// Called every frame

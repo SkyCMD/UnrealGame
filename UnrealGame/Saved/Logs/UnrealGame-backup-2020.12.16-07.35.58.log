@@ -1,0 +1,1717 @@
+﻿Log file open, 12/15/20 23:30:16
+LogInit: Display: Running engine for game: UnrealGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.446908
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.16-06.30.18:245][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.16-06.30.18:245][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+[2020.12.16-06.30.18:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.16-06.30.18:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+[2020.12.16-06.30.18:246][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+[2020.12.16-06.30.18:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.16-06.30.18:248][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.16-06.30.18:249][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.16-06.30.18:249][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.16-06.30.18:249][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.16-06.30.18:250][  0]LogHAL: Display: Platform has ~ 16 GB [17103020032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.16-06.30.18:250][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.16-06.30.18:250][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.16-06.30.18:250][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.16-06.30.18:251][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Config/Windows/Engine.ini]
+[2020.12.16-06.30.18:251][  0]LogInit: Computer: DESKTOP-JKG5DN5
+[2020.12.16-06.30.18:251][  0]LogInit: User: boste
+[2020.12.16-06.30.18:251][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.16-06.30.18:251][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.16-06.30.18:252][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.16-06.30.18:252][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.16-06.30.18:252][  0]LogMemory: Process Physical Memory: 124.01 MB used, 124.02 MB peak
+[2020.12.16-06.30.18:252][  0]LogMemory: Process Virtual Memory: 109.34 MB used, 109.34 MB peak
+[2020.12.16-06.30.18:252][  0]LogMemory: Physical Memory: 10152.72 MB used,  6157.99 MB free, 16310.71 MB total
+[2020.12.16-06.30.18:252][  0]LogMemory: Virtual Memory: 5218.58 MB used,  134212512.00 MB free, 134217728.00 MB total
+[2020.12.16-06.30.18:274][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.16-06.30.18:384][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.16-06.30.18:512][  0]LogInit: Using OS detected language (en-US).
+[2020.12.16-06.30.18:512][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.16-06.30.18:520][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.16-06.30.18:891][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.16-06.30.18:958][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.16-06.30.18:958][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.16-06.30.34:472][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.16-06.30.34:472][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.16-06.30.34:472][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.16-06.30.34:472][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.16-06.30.34:573][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2020.12.16-06.30.34:573][  0]LogD3D11RHI:       8079/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.16-06.30.34:646][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.16-06.30.34:646][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.16-06.30.34:646][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.16-06.30.34:657][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.16-06.30.34:657][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.16-06.30.34:657][  0]LogWindows: EnumDisplayDevices:
+[2020.12.16-06.30.34:657][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2020.12.16-06.30.34:657][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2020.12.16-06.30.34:657][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2020.12.16-06.30.34:658][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2020.12.16-06.30.34:658][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.16-06.30.34:658][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2020.12.16-06.30.34:658][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.12.16-06.30.34:658][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.12.16-06.30.34:658][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.12.16-06.30.34:849][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.16-06.30.34:871][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.16-06.30.34:871][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.16-06.30.35:001][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.16-06.30.35:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.16-06.30.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.16-06.30.35:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.16-06.30.35:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.16-06.30.35:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.16-06.30.35:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.16-06.30.35:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.16-06.30.35:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.16-06.30.35:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.16-06.30.35:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.16-06.30.35:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.16-06.30.35:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.16-06.30.35:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.16-06.30.35:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.16-06.30.35:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.16-06.30.35:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.16-06.30.35:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.16-06.30.35:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.16-06.30.35:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.16-06.30.35:598][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.16-06.30.35:606][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.16-06.30.36:005][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Intermediate/Shaders/WorkingDirectory/11096/).
+[2020.12.16-06.30.36:005][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/boste/AppData/Local/Temp/UnrealShaderWorkingDir/14CFC38C437CC76AE1E57690DAD7A068/'.
+[2020.12.16-06.30.36:005][  0]LogXGEController: Cleaning working directory: C:/Users/boste/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.16-06.30.36:006][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.16-06.30.36:006][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.16-06.30.36:006][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.16-06.30.43:010][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.16-06.30.44:260][  0]LogDerivedDataCache: Loaded boot cache 1.25s 79MB C:/Users/boste/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.16-06.30.44:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/boste/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.16-06.30.44:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.16-06.30.44:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.16-06.30.44:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.16-06.30.44:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.16-06.30.44:277][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.16-06.30.44:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.16-06.30.44:277][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.16-06.30.44:279][  0]LogDerivedDataCache: Using Local data cache path C:/Users/boste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.16-06.30.44:279][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.16-06.30.44:279][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.16-06.30.44:330][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.16-06.30.44:331][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.16-06.30.44:402][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.12.16-06.30.44:691][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.16-06.30.44:924][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.16-06.30.44:924][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.16-06.30.44:924][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.16-06.30.44:924][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.16-06.30.44:924][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.16-06.30.45:499][  0]LogNetVersion: UnrealGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2606401877)
+[2020.12.16-06.30.50:048][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000024549278F00), frame # 0
+[2020.12.16-06.30.50:048][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245490F51C0), frame # 0
+[2020.12.16-06.30.50:050][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024549149C00), frame # 0
+[2020.12.16-06.30.50:159][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.083923 seconds
+[2020.12.16-06.30.50:166][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.16-06.30.50:166][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.16-06.30.50:166][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.16-06.30.50:999][  0]LogPython: Using Python 2.7.14
+[2020.12.16-06.30.52:542][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.16-06.30.52:547][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.16-06.30.52:816][  0]SourceControl: Source control is disabled
+[2020.12.16-06.30.52:816][  0]SourceControl: Source control is disabled
+[2020.12.16-06.30.52:822][  0]SourceControl: Source control is disabled
+[2020.12.16-06.30.52:825][  0]SourceControl: Source control is disabled
+[2020.12.16-06.30.52:831][  0]SourceControl: Source control is disabled
+[2020.12.16-06.30.53:273][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.16-06.30.53:300][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.16-06.30.53:300][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.16-06.30.53:395][  0]LogOcInput: OculusInput pre-init called
+[2020.12.16-06.30.54:015][  0]LogEngine: Initializing Engine...
+[2020.12.16-06.30.54:084][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.16-06.30.54:084][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.16-06.30.54:085][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.16-06.30.54:355][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.16-06.30.54:365][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.16-06.30.54:365][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002455CDB9200), frame # 0
+[2020.12.16-06.30.54:365][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002455CD87600), frame # 0
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-06.30.54:370][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-06.30.54:370][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-06.30.54:370][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-06.30.54:426][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-06.30.54:426][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-06.30.54:519][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-06.30.54:522][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-06.30.54:595][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-06.30.54:595][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-06.30.54:596][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-06.30.54:597][  0]LogInit: FAudioDevice initialized.
+[2020.12.16-06.30.54:597][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.16-06.30.54:793][  0]LogDerivedDataCache: Saved boot cache 0.20s 79MB C:/Users/boste/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.16-06.30.54:796][  0]LogInit: Texture streaming: Enabled
+[2020.12.16-06.30.54:846][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.16-06.30.54:846][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1B689545-4913-D7FB-04E2-CDAF45EB8E6D}
+[2020.12.16-06.30.54:846][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.16-06.30.54:861][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.16-06.30.54:931][  0]LogInit: Transaction tracking system initialized
+[2020.12.16-06.30.54:952][  0]BlueprintLog: New page: Editor Load
+[2020.12.16-06.30.55:039][  0]LocalizationService: Localization service is disabled
+[2020.12.16-06.30.55:502][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.16-06.30.55:502][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.16-06.30.55:602][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/' took 0.02s
+[2020.12.16-06.30.56:175][  0]SourceControl: Source control is disabled
+[2020.12.16-06.30.56:175][  0]LogUnrealEdMisc: Loading editor; pre map load, took 40.567
+[2020.12.16-06.30.56:175][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/OurContent/Maps/DefaultMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.16-06.30.56:176][  0]LightingResults: New page: Lighting Build
+[2020.12.16-06.30.56:177][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-06.30.56:177][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-06.30.56:177][  0]MapCheck: New page: Map Check
+[2020.12.16-06.30.56:177][  0]LightingResults: New page: Lighting Build
+[2020.12.16-06.30.56:192][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002455CDB9200), frame # 0
+[2020.12.16-06.30.56:192][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002455CD87600), frame # 0
+[2020.12.16-06.30.56:193][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.16-06.30.57:704][  0]LogLinker: Warning: Asset '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.16-06.30.57:708][  0]LogLinker: Warning: Asset '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.16-06.30.57:713][  0]LogLinker: Warning: Asset '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.16-06.30.58:006][  0]LogLinker: Warning: Asset '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.16-06.31.07:307][  0]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-06.31.07:307][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024564A96000), frame # 0
+[2020.12.16-06.31.07:307][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024564A1FB00), frame # 0
+[2020.12.16-06.31.07:378][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.16-06.31.07:399][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.12.16-06.31.07:403][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.16-06.31.07:403][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2020.12.16-06.31.07:403][  0]LogFileHelpers: Loading map 'DefaultMap' took 11.228
+[2020.12.16-06.31.07:406][  0]LogUnrealEdMisc: Total Editor Startup Time, took 51.799
+[2020.12.16-06.31.07:556][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-06.31.07:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-06.31.07:570][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-06.31.07:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-06.31.07:583][  0]LogCollectionManager: Loaded 0 collections in 0.000680 seconds
+[2020.12.16-06.31.07:601][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Collections/' took 0.00s
+[2020.12.16-06.31.07:601][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/Developers/boste/Collections/' took 0.00s
+[2020.12.16-06.31.07:601][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/Collections/' took 0.00s
+[2020.12.16-06.31.07:601][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-06.31.07:607][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.16-06.31.08:086][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.16-06.31.08:088][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.12.16-06.31.08:195][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.16-06.31.08:197][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.16-06.31.08:206][  0]LogSlate: Took 0.005200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.16-06.31.08:287][  0]LogRenderer: Reallocating scene render targets to support 1272x640 Format 10 NumSamples 1 (Frame:1).
+[2020.12.16-06.31.08:485][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.16-06.31.08:485][  0]LogLoad: (Engine Initialization) Total time: 52.88 seconds
+[2020.12.16-06.31.08:485][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.16-06.31.08:550][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.16-06.31.08:596][  0]LogSlate: Took 0.005812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.16-06.31.08:609][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/' took 0.11s
+[2020.12.16-06.31.08:623][  1]LogAssetRegistry: Asset discovery search completed in 24.2216 seconds
+[2020.12.16-06.31.08:628][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.12.16-06.31.09:947][  5]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.16-07.15.54:404][162]Candidate modules for hot reload:
+[2020.12.16-07.15.54:405][162]  UnrealGame
+[2020.12.16-07.15.54:405][162]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,317 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.15.54:409][162]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.15.56:576][259]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:15:56 PM
+[2020.12.16-07.15.56:576][259]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.15.56:576][259]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.15.56:576][259]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.15.56:576][259]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.12.16-07.15.56:576][259]CompilerResultsLog:   [1/3] UE4Editor-UnrealGame-0317.lib
+[2020.12.16-07.15.56:576][259]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0317.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0317.exp
+[2020.12.16-07.15.56:576][259]CompilerResultsLog:   [2/3] UE4Editor-UnrealGame-0317.dll
+[2020.12.16-07.15.56:576][259]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0317.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0317.suppressed.exp
+[2020.12.16-07.15.56:576][259]CompilerResultsLog:   [3/3] UnrealGameEditor.target
+[2020.12.16-07.15.56:576][259]CompilerResultsLog: Total time in Parallel executor: 0.81 seconds
+[2020.12.16-07.15.56:576][259]CompilerResultsLog: Total execution time: 1.75 seconds
+[2020.12.16-07.15.56:576][259]LogMainFrame: MainFrame: Module compiling took 2.179 seconds
+[2020.12.16-07.15.56:815][259]LogContentBrowser: Native class hierarchy populated in 0.0526 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.15.56:815][259]Display: HotReload took  2.4s.
+[2020.12.16-07.16.28:706][473]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.16.28:802][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.16.28:814][473]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:16:28 PM)
+[2020.12.16-07.16.28:836][473]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.16-07.16.28:838][473]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.16-07.16.28:838][473]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.16.28:893][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045703s)
+[2020.12.16-07.16.28:895][473]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.16.28:895][473]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002457CA15200), frame # 8473
+[2020.12.16-07.16.28:895][473]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002453C225440), frame # 8473
+[2020.12.16-07.16.28:896][473]LogPlayLevel: PIE: World Init took: (0.002446s)
+[2020.12.16-07.16.28:896][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.057112s)
+[2020.12.16-07.16.28:921][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.16-07.16.28:980][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.16.28:980][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.16.28:980][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.16.28:980][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.16.28:980][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.16.28:980][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.16.28:980][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.16.28:980][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.16.28:981][473]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.16.28:981][473]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.16.28:991][473]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.16.28:992][473]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.16.29:051][473]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.16.29:051][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.16.29:052][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.16.29:052][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.16.29:053][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.16.29:064][473]LogInit: FAudioDevice initialized.
+[2020.12.16-07.16.29:081][473]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.16.29:091][473]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.16.29
+[2020.12.16-07.16.29:092][473]LogWorld: Bringing up level for play took: 0.008904
+[2020.12.16-07.16.29:092][473]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.12.16-07.16.29:109][473]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.16-07.16.29:113][473]PIE: Server logged in
+[2020.12.16-07.16.29:114][473]PIE: Play in editor total start time 0.317 seconds.
+[2020.12.16-07.16.29:800][529]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.16.41:796][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.16.41:796][944]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.16.41:796][944]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.16.41:798][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.16.41:809][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.16.41:811][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.16.41:837][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.16.41:844][944]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002457CA15200), frame # 9944
+[2020.12.16-07.16.41:844][944]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002453C225440), frame # 9944
+[2020.12.16-07.16.41:845][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.16-07.16.41:912][945]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.12.16-07.20.02:581][881]Candidate modules for hot reload:
+[2020.12.16-07.20.02:581][881]  UnrealGame
+[2020.12.16-07.20.02:581][881]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,7410 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.20.02:585][881]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:20:04 PM
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-7410.lib
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7410.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7410.exp
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-7410.dll
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7410.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7410.suppressed.exp
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog: Total time in Parallel executor: 1.46 seconds
+[2020.12.16-07.20.04:982][ 90]CompilerResultsLog: Total execution time: 2.32 seconds
+[2020.12.16-07.20.04:982][ 90]LogMainFrame: MainFrame: Module compiling took 2.403 seconds
+[2020.12.16-07.20.05:080][ 90]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.20.05:120][ 90]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.20.05:162][ 90]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.20.05:228][ 90]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.20.05:228][ 90]Display: HotReload took  2.7s.
+[2020.12.16-07.20.06:941][282]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.20.06:964][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.20.06:964][282]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:20:06 PM)
+[2020.12.16-07.20.06:986][282]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.20.07:022][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036006s)
+[2020.12.16-07.20.07:023][282]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.20.07:023][282]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024570DE2600), frame # 11282
+[2020.12.16-07.20.07:023][282]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024541B4E0C0), frame # 11282
+[2020.12.16-07.20.07:023][282]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2020.12.16-07.20.07:024][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.037473s)
+[2020.12.16-07.20.07:036][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.12.16-07.20.07:039][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.20.07:039][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.20.07:039][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.20.07:039][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.20.07:039][282]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.20.07:039][282]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.20.07:039][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.20.07:039][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.20.07:040][282]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.20.07:040][282]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.20.07:050][282]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.20.07:050][282]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.20.07:109][282]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.20.07:110][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.20.07:110][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.20.07:110][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.20.07:110][282]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.20.07:121][282]LogInit: FAudioDevice initialized.
+[2020.12.16-07.20.07:133][282]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.20.07:141][282]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.20.07
+[2020.12.16-07.20.07:141][282]LogWorld: Bringing up level for play took: 0.008099
+[2020.12.16-07.20.07:142][282]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.12.16-07.20.07:145][282]PIE: Server logged in
+[2020.12.16-07.20.07:146][282]PIE: Play in editor total start time 0.185 seconds.
+[2020.12.16-07.20.08:005][377]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.20.18:196][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.20.18:196][595]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.20.18:197][595]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.20.18:198][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.20.18:204][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.20.18:206][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.20.18:216][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.20.18:236][595]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024541B4E0C0), frame # 12595
+[2020.12.16-07.20.18:236][595]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024570DE2600), frame # 12595
+[2020.12.16-07.20.18:238][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.16-07.20.18:279][596]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.12.16-07.20.26:370][305]LogActor: Warning: BP_Crate_C /Engine/Transient.World_4:PersistentLevel.BP_Crate_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.12.16-07.20.29:526][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurContent/Blueprints/Hazards/Spikes.Spikes
+[2020.12.16-07.20.30:271][467]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2020.12.16-07.20.31:305][467]LogSlate: Took 0.005163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.16-07.20.32:804][583]LogSlate: Took 0.000749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.16-07.20.33:005][603]LogSlate: Window 'Spikes' being destroyed
+[2020.12.16-07.20.46:335][ 85]Candidate modules for hot reload:
+[2020.12.16-07.20.46:335][ 85]  UnrealGame
+[2020.12.16-07.20.46:335][ 85]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,7526 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.20.46:339][ 85]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.20.48:655][255]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:20:48 PM
+[2020.12.16-07.20.48:655][255]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.20.48:655][255]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.20.48:655][255]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.20.48:656][255]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.20.48:656][255]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.20.48:656][255]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-7526.lib
+[2020.12.16-07.20.48:656][255]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7526.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7526.exp
+[2020.12.16-07.20.48:656][255]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-7526.dll
+[2020.12.16-07.20.48:656][255]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7526.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-7526.suppressed.exp
+[2020.12.16-07.20.48:656][255]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.20.48:656][255]CompilerResultsLog: Total time in Parallel executor: 1.34 seconds
+[2020.12.16-07.20.48:656][255]CompilerResultsLog: Total execution time: 2.23 seconds
+[2020.12.16-07.20.48:656][255]LogMainFrame: MainFrame: Module compiling took 2.327 seconds
+[2020.12.16-07.20.48:687][255]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.20.48:703][255]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.20.48:710][255]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.20.48:773][255]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.20.48:773][255]Display: HotReload took  2.4s.
+[2020.12.16-07.20.48:774][255]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.12.16-07.20.50:579][397]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.12.16-07.20.51:451][479]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.20.51:475][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.20.51:475][479]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:20:51 PM)
+[2020.12.16-07.20.51:506][479]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.20.51:540][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034440s)
+[2020.12.16-07.20.51:541][479]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.20.51:541][479]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245EE3D8C00), frame # 14479
+[2020.12.16-07.20.51:541][479]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245EE3EC540), frame # 14479
+[2020.12.16-07.20.51:541][479]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2020.12.16-07.20.51:541][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.035746s)
+[2020.12.16-07.20.51:591][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.12.16-07.20.51:597][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.20.51:597][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.20.51:597][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.20.51:597][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.20.51:597][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.20.51:597][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.20.51:597][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.20.51:597][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.20.51:598][479]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.20.51:598][479]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.20.51:607][479]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.20.51:607][479]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.20.51:663][479]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.20.51:663][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.20.51:663][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.20.51:663][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.20.51:664][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.20.51:674][479]LogInit: FAudioDevice initialized.
+[2020.12.16-07.20.51:683][479]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.20.51:690][479]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.20.51
+[2020.12.16-07.20.51:691][479]LogWorld: Bringing up level for play took: 0.007364
+[2020.12.16-07.20.51:691][479]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.12.16-07.20.51:694][479]PIE: Server logged in
+[2020.12.16-07.20.51:695][479]PIE: Play in editor total start time 0.223 seconds.
+[2020.12.16-07.20.56:084][939]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.20.59:346][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.20.59:346][325]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.20.59:347][325]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.20.59:348][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.20.59:357][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.20.59:362][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.20.59:384][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.20.59:409][325]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245EE3D8C00), frame # 15325
+[2020.12.16-07.20.59:409][325]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245EE3EC540), frame # 15325
+[2020.12.16-07.20.59:412][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.16-07.20.59:456][326]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.12.16-07.21.00:191][410]LogEditorViewport: Clicking on Actor (LMB): Spikes_C (Spikes)
+[2020.12.16-07.22.19:899][195]Candidate modules for hot reload:
+[2020.12.16-07.22.19:899][195]  UnrealGame
+[2020.12.16-07.22.19:899][195]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,9273 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.22.19:902][195]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.22.22:158][372]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:22:22 PM
+[2020.12.16-07.22.22:158][372]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.22.22:158][372]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.22.22:158][372]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.22.22:158][372]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.22.22:158][372]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.22.22:158][372]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-9273.lib
+[2020.12.16-07.22.22:158][372]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9273.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9273.exp
+[2020.12.16-07.22.22:158][372]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-9273.dll
+[2020.12.16-07.22.22:158][372]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9273.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9273.suppressed.exp
+[2020.12.16-07.22.22:158][372]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.22.22:158][372]CompilerResultsLog: Total time in Parallel executor: 1.33 seconds
+[2020.12.16-07.22.22:158][372]CompilerResultsLog: Total execution time: 2.17 seconds
+[2020.12.16-07.22.22:158][372]LogMainFrame: MainFrame: Module compiling took 2.264 seconds
+[2020.12.16-07.22.22:206][372]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.22.22:225][372]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.22.22:235][372]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.22.22:308][372]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.22.22:309][372]Display: HotReload took  2.4s.
+[2020.12.16-07.22.23:909][497]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.22.23:937][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.22.23:937][497]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:22:23 PM)
+[2020.12.16-07.22.23:966][497]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.22.23:998][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031800s)
+[2020.12.16-07.22.23:998][497]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.22.23:999][497]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245E3135200), frame # 17497
+[2020.12.16-07.22.23:999][497]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245E3133D80), frame # 17497
+[2020.12.16-07.22.23:999][497]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2020.12.16-07.22.23:999][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.033056s)
+[2020.12.16-07.22.24:073][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.22.24:077][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.22.24:077][497]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.22.24:077][497]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.22.24:087][497]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.22.24:087][497]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.22.24:144][497]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.22.24:145][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.22.24:145][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.22.24:145][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.22.24:145][497]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.22.24:157][497]LogInit: FAudioDevice initialized.
+[2020.12.16-07.22.24:163][497]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.22.24:171][497]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.22.24
+[2020.12.16-07.22.24:171][497]LogWorld: Bringing up level for play took: 0.007868
+[2020.12.16-07.22.24:172][497]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.12.16-07.22.24:175][497]PIE: Server logged in
+[2020.12.16-07.22.24:176][497]PIE: Play in editor total start time 0.245 seconds.
+[2020.12.16-07.22.25:485][629]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.22.29:597][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.22.29:597][116]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.22.29:597][116]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.22.29:599][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.22.29:606][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.22.29:611][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.22.29:634][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.22.29:678][116]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245E3135200), frame # 18116
+[2020.12.16-07.22.29:679][116]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245E3133D80), frame # 18116
+[2020.12.16-07.22.29:682][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.12.16-07.22.29:725][117]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.12.16-07.22.58:886][331]Candidate modules for hot reload:
+[2020.12.16-07.22.58:886][331]  UnrealGame
+[2020.12.16-07.22.58:887][331]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,1516 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.22.58:890][331]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.23.02:514][692]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:23:02 PM
+[2020.12.16-07.23.02:514][692]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.23.02:514][692]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.23.02:514][692]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.23.02:514][692]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.23.02:514][692]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.23.02:514][692]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-1516.lib
+[2020.12.16-07.23.02:514][692]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-1516.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-1516.exp
+[2020.12.16-07.23.02:514][692]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-1516.dll
+[2020.12.16-07.23.02:514][692]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-1516.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-1516.suppressed.exp
+[2020.12.16-07.23.02:514][692]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.23.02:514][692]CompilerResultsLog: Total time in Parallel executor: 2.20 seconds
+[2020.12.16-07.23.02:514][692]CompilerResultsLog: Total execution time: 3.55 seconds
+[2020.12.16-07.23.02:514][692]LogMainFrame: MainFrame: Module compiling took 3.632 seconds
+[2020.12.16-07.23.02:585][692]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.23.02:604][692]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.23.02:613][692]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.23.02:690][692]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.23.02:690][692]Display: HotReload took  3.8s.
+[2020.12.16-07.23.04:096][791]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.23.04:125][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.23.04:125][791]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:23:04 PM)
+[2020.12.16-07.23.04:156][791]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.23.04:192][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035728s)
+[2020.12.16-07.23.04:193][791]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.23.04:193][791]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245BEB1E200), frame # 18791
+[2020.12.16-07.23.04:193][791]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245BEB48B80), frame # 18791
+[2020.12.16-07.23.04:193][791]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2020.12.16-07.23.04:193][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.037020s)
+[2020.12.16-07.23.04:270][791]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.12.16-07.23.04:273][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.23.04:273][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.23.04:273][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.23.04:273][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.23.04:273][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.23.04:273][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.23.04:273][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.23.04:273][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.23.04:274][791]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.23.04:274][791]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.23.04:286][791]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.23.04:286][791]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.23.04:347][791]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.23.04:347][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.23.04:347][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.23.04:347][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.23.04:348][791]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.23.04:358][791]LogInit: FAudioDevice initialized.
+[2020.12.16-07.23.04:369][791]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.23.04:377][791]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.23.04
+[2020.12.16-07.23.04:377][791]LogWorld: Bringing up level for play took: 0.007470
+[2020.12.16-07.23.04:377][791]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.12.16-07.23.04:380][791]PIE: Server logged in
+[2020.12.16-07.23.04:381][791]PIE: Play in editor total start time 0.259 seconds.
+[2020.12.16-07.23.05:524][907]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.23.14:237][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.23.14:237][946]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.23.14:237][946]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.23.14:239][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.23.14:246][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.23.14:251][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.23.14:296][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.23.14:316][946]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245BEB48B80), frame # 19946
+[2020.12.16-07.23.14:316][946]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245BEB1E200), frame # 19946
+[2020.12.16-07.23.14:324][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.12.16-07.23.14:368][947]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.12.16-07.23.27:001][139]Candidate modules for hot reload:
+[2020.12.16-07.23.27:001][139]  UnrealGame
+[2020.12.16-07.23.27:001][139]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,8354 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.23.27:005][139]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.23.29:450][356]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:23:29 PM
+[2020.12.16-07.23.29:450][356]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.23.29:450][356]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.23.29:450][356]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.23.29:450][356]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.23.29:450][356]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.23.29:450][356]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-8354.lib
+[2020.12.16-07.23.29:450][356]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8354.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8354.exp
+[2020.12.16-07.23.29:450][356]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-8354.dll
+[2020.12.16-07.23.29:450][356]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8354.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8354.suppressed.exp
+[2020.12.16-07.23.29:450][356]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.23.29:450][356]CompilerResultsLog: Total time in Parallel executor: 1.54 seconds
+[2020.12.16-07.23.29:450][356]CompilerResultsLog: Total execution time: 2.36 seconds
+[2020.12.16-07.23.29:450][356]LogMainFrame: MainFrame: Module compiling took 2.451 seconds
+[2020.12.16-07.23.29:489][356]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.23.29:508][356]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.23.29:516][356]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.23.29:589][356]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.23.29:589][356]Display: HotReload took  2.6s.
+[2020.12.16-07.23.32:991][436]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.23.33:018][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.23.33:019][436]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:23:33 PM)
+[2020.12.16-07.23.33:019][436]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.23.33:054][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035844s)
+[2020.12.16-07.23.33:055][436]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.23.33:055][436]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245B9DF9C00), frame # 20436
+[2020.12.16-07.23.33:055][436]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245B9E02D40), frame # 20436
+[2020.12.16-07.23.33:055][436]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2020.12.16-07.23.33:055][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.037189s)
+[2020.12.16-07.23.33:124][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.12.16-07.23.33:125][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.23.33:125][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.23.33:125][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.23.33:125][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.23.33:125][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.23.33:125][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.23.33:125][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.23.33:125][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.23.33:126][436]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.23.33:126][436]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.23.33:135][436]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.23.33:135][436]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.23.33:191][436]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.23.33:191][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.23.33:191][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.23.33:192][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.23.33:192][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.23.33:203][436]LogInit: FAudioDevice initialized.
+[2020.12.16-07.23.33:214][436]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.23.33:222][436]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.23.33
+[2020.12.16-07.23.33:222][436]LogWorld: Bringing up level for play took: 0.008220
+[2020.12.16-07.23.33:223][436]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.12.16-07.23.33:226][436]PIE: Server logged in
+[2020.12.16-07.23.33:227][436]PIE: Play in editor total start time 0.212 seconds.
+[2020.12.16-07.23.33:653][475]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.23.40:516][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.23.40:517][292]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.23.40:517][292]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.23.40:518][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.23.40:525][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.23.40:531][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.23.40:567][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.23.40:577][292]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245B9E02D40), frame # 21292
+[2020.12.16-07.23.40:578][292]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245B9DF9C00), frame # 21292
+[2020.12.16-07.23.40:598][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.12.16-07.23.40:641][293]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.12.16-07.23.44:483][681]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (RoomTriggerBox)
+[2020.12.16-07.23.48:816][ 56]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.23.48:838][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.23.48:838][ 56]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:23:48 PM)
+[2020.12.16-07.23.48:839][ 56]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.23.48:873][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034309s)
+[2020.12.16-07.23.48:874][ 56]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.23.48:874][ 56]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245E0990A00), frame # 22056
+[2020.12.16-07.23.48:874][ 56]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245B3713D80), frame # 22056
+[2020.12.16-07.23.48:875][ 56]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2020.12.16-07.23.48:875][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.035745s)
+[2020.12.16-07.23.48:899][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.23.48:904][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.23.48:904][ 56]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.23.48:904][ 56]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.23.48:914][ 56]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.23.48:914][ 56]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.23.48:971][ 56]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.23.48:971][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.23.48:971][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.23.48:971][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.23.48:972][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.23.48:983][ 56]LogInit: FAudioDevice initialized.
+[2020.12.16-07.23.48:993][ 56]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.23.49:001][ 56]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.23.49
+[2020.12.16-07.23.49:001][ 56]LogWorld: Bringing up level for play took: 0.007358
+[2020.12.16-07.23.49:001][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.12.16-07.23.49:005][ 56]PIE: Server logged in
+[2020.12.16-07.23.49:005][ 56]PIE: Play in editor total start time 0.167 seconds.
+[2020.12.16-07.23.49:526][112]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.23.52:157][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.23.52:157][422]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.23.52:157][422]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.23.52:159][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.23.52:167][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.23.52:173][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.23.52:196][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.23.52:214][422]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245B3713D80), frame # 22422
+[2020.12.16-07.23.52:214][422]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245E0990A00), frame # 22422
+[2020.12.16-07.23.52:218][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.12.16-07.23.52:263][423]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.12.16-07.24.04:054][572]Candidate modules for hot reload:
+[2020.12.16-07.24.04:054][572]  UnrealGame
+[2020.12.16-07.24.04:054][572]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,8855 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.24.04:058][572]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.24.06:031][749]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:24:06 PM
+[2020.12.16-07.24.06:031][749]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.24.06:031][749]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.24.06:031][749]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.24.06:031][749]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.12.16-07.24.06:031][749]CompilerResultsLog:   [1/3] UE4Editor-UnrealGame-8855.lib
+[2020.12.16-07.24.06:031][749]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8855.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8855.exp
+[2020.12.16-07.24.06:031][749]CompilerResultsLog:   [2/3] UE4Editor-UnrealGame-8855.dll
+[2020.12.16-07.24.06:031][749]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8855.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-8855.suppressed.exp
+[2020.12.16-07.24.06:031][749]CompilerResultsLog:   [3/3] UnrealGameEditor.target
+[2020.12.16-07.24.06:031][749]CompilerResultsLog: Total time in Parallel executor: 1.08 seconds
+[2020.12.16-07.24.06:031][749]CompilerResultsLog: Total execution time: 1.89 seconds
+[2020.12.16-07.24.06:031][749]LogMainFrame: MainFrame: Module compiling took 1.979 seconds
+[2020.12.16-07.24.06:068][749]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.24.06:087][749]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.24.06:095][749]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.24.06:165][749]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.24.06:165][749]Display: HotReload took  2.1s.
+[2020.12.16-07.24.21:178][ 82]Candidate modules for hot reload:
+[2020.12.16-07.24.21:178][ 82]  UnrealGame
+[2020.12.16-07.24.21:178][ 82]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,9965 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.24.21:201][ 82]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.24.23:619][317]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:24:23 PM
+[2020.12.16-07.24.23:619][317]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.24.23:619][317]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.24.23:619][317]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.24.23:619][317]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.24.23:619][317]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.24.23:619][317]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-9965.lib
+[2020.12.16-07.24.23:619][317]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9965.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9965.exp
+[2020.12.16-07.24.23:619][317]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-9965.dll
+[2020.12.16-07.24.23:619][317]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9965.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-9965.suppressed.exp
+[2020.12.16-07.24.23:619][317]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.24.23:619][317]CompilerResultsLog: Total time in Parallel executor: 1.52 seconds
+[2020.12.16-07.24.23:619][317]CompilerResultsLog: Total execution time: 2.33 seconds
+[2020.12.16-07.24.23:619][317]LogMainFrame: MainFrame: Module compiling took 2.445 seconds
+[2020.12.16-07.24.23:683][317]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.24.23:703][317]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.24.23:712][317]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.24.23:793][317]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.24.23:793][317]Display: HotReload took  2.6s.
+[2020.12.16-07.24.25:267][431]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.24.25:294][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.24.25:294][431]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:24:25 PM)
+[2020.12.16-07.24.25:336][431]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.24.25:372][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036072s)
+[2020.12.16-07.24.25:373][431]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.24.25:373][431]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245FE08C600), frame # 23431
+[2020.12.16-07.24.25:373][431]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245FF05BD80), frame # 23431
+[2020.12.16-07.24.25:373][431]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2020.12.16-07.24.25:373][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.037337s)
+[2020.12.16-07.24.25:485][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.12.16-07.24.25:487][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.24.25:487][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.24.25:487][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.24.25:488][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.24.25:488][431]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.24.25:488][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.24.25:488][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.24.25:488][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.24.25:488][431]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.24.25:488][431]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.24.25:500][431]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.24.25:500][431]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.24.25:561][431]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.24.25:561][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.24.25:561][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.24.25:561][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.24.25:562][431]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.24.25:574][431]LogInit: FAudioDevice initialized.
+[2020.12.16-07.24.25:581][431]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.24.25:589][431]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.24.25
+[2020.12.16-07.24.25:590][431]LogWorld: Bringing up level for play took: 0.007967
+[2020.12.16-07.24.25:590][431]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.12.16-07.24.25:593][431]PIE: Server logged in
+[2020.12.16-07.24.25:594][431]PIE: Play in editor total start time 0.303 seconds.
+[2020.12.16-07.24.28:596][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.24.28:596][703]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.24.28:597][703]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.24.28:598][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.24.28:604][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.24.28:609][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.24.28:627][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.24.28:648][703]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245FE08C600), frame # 23703
+[2020.12.16-07.24.28:648][703]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245FF05BD80), frame # 23703
+[2020.12.16-07.24.28:652][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.12.16-07.24.28:693][704]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.12.16-07.25.12:595][934]Candidate modules for hot reload:
+[2020.12.16-07.25.12:595][934]  UnrealGame
+[2020.12.16-07.25.12:596][934]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,3929 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.25.12:599][934]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.25.14:815][ 95]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:25:14 PM
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-3929.lib
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-3929.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-3929.exp
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-3929.dll
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-3929.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-3929.suppressed.exp
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog: Total time in Parallel executor: 1.32 seconds
+[2020.12.16-07.25.14:816][ 95]CompilerResultsLog: Total execution time: 2.14 seconds
+[2020.12.16-07.25.14:816][ 95]LogMainFrame: MainFrame: Module compiling took 2.223 seconds
+[2020.12.16-07.25.14:852][ 95]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.25.14:870][ 95]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.25.14:878][ 95]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.25.14:946][ 95]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.25.14:946][ 95]Display: HotReload took  2.4s.
+[2020.12.16-07.25.17:333][301]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.25.17:358][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.25.17:358][301]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:25:17 PM)
+[2020.12.16-07.25.17:358][301]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.25.17:391][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033115s)
+[2020.12.16-07.25.17:392][301]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.25.17:392][301]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245BFF43E00), frame # 24301
+[2020.12.16-07.25.17:392][301]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024586EDA0C0), frame # 24301
+[2020.12.16-07.25.17:392][301]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2020.12.16-07.25.17:392][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.034309s)
+[2020.12.16-07.25.17:462][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.25.17:464][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.25.17:464][301]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.25.17:464][301]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.25.17:474][301]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.25.17:474][301]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.25.17:533][301]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.25.17:533][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.25.17:533][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.25.17:533][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.25.17:534][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.25.17:545][301]LogInit: FAudioDevice initialized.
+[2020.12.16-07.25.17:555][301]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.25.17:562][301]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.25.17
+[2020.12.16-07.25.17:563][301]LogWorld: Bringing up level for play took: 0.007343
+[2020.12.16-07.25.17:563][301]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.12.16-07.25.17:566][301]PIE: Server logged in
+[2020.12.16-07.25.17:567][301]PIE: Play in editor total start time 0.213 seconds.
+[2020.12.16-07.25.19:404][451]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.25.24:257][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.25.24:257][ 24]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.25.24:258][ 24]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.25.24:259][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.25.24:269][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.25.24:274][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.25.24:313][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.25.24:315][ 24]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024586EDA0C0), frame # 25024
+[2020.12.16-07.25.24:315][ 24]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245BFF43E00), frame # 25024
+[2020.12.16-07.25.24:324][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.12.16-07.25.24:368][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.12.16-07.26.05:076][223]Candidate modules for hot reload:
+[2020.12.16-07.26.05:076][223]  UnrealGame
+[2020.12.16-07.26.05:076][223]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,2176 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.26.05:078][223]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.26.07:479][410]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:26:07 PM
+[2020.12.16-07.26.07:479][410]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.26.07:479][410]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.26.07:479][410]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.26.07:479][410]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.26.07:479][410]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.26.07:479][410]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-2176.lib
+[2020.12.16-07.26.07:479][410]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-2176.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-2176.exp
+[2020.12.16-07.26.07:479][410]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-2176.dll
+[2020.12.16-07.26.07:479][410]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-2176.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-2176.suppressed.exp
+[2020.12.16-07.26.07:479][410]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.26.07:479][410]CompilerResultsLog: Total time in Parallel executor: 1.50 seconds
+[2020.12.16-07.26.07:479][410]CompilerResultsLog: Total execution time: 2.32 seconds
+[2020.12.16-07.26.07:479][410]LogMainFrame: MainFrame: Module compiling took 2.409 seconds
+[2020.12.16-07.26.07:523][410]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.26.07:543][410]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.26.07:553][410]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.26.07:626][410]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.26.07:626][410]Display: HotReload took  2.6s.
+[2020.12.16-07.26.09:036][514]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.26.09:061][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.26.09:061][514]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:26:09 PM)
+[2020.12.16-07.26.09:096][514]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.26.09:129][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032121s)
+[2020.12.16-07.26.09:130][514]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.26.09:130][514]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245B90D1C00), frame # 25514
+[2020.12.16-07.26.09:130][514]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245B90BBD80), frame # 25514
+[2020.12.16-07.26.09:130][514]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2020.12.16-07.26.09:130][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.033338s)
+[2020.12.16-07.26.09:201][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.12.16-07.26.09:203][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.26.09:203][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.26.09:203][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.26.09:203][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.26.09:203][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.26.09:203][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.26.09:203][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.26.09:203][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.26.09:204][514]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.26.09:204][514]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.26.09:213][514]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.26.09:213][514]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.26.09:268][514]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.26.09:269][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.26.09:269][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.26.09:269][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.26.09:269][514]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.26.09:280][514]LogInit: FAudioDevice initialized.
+[2020.12.16-07.26.09:287][514]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.26.09:294][514]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.26.09
+[2020.12.16-07.26.09:294][514]LogWorld: Bringing up level for play took: 0.006972
+[2020.12.16-07.26.09:294][514]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.12.16-07.26.09:298][514]PIE: Server logged in
+[2020.12.16-07.26.09:299][514]PIE: Play in editor total start time 0.242 seconds.
+[2020.12.16-07.26.09:705][554]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.26.23:597][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.26.23:597][215]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.26.23:597][215]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.26.23:599][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.26.23:612][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.26.23:618][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.26.23:657][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.26.23:664][215]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245B90BBD80), frame # 27215
+[2020.12.16-07.26.23:664][215]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245B90D1C00), frame # 27215
+[2020.12.16-07.26.23:686][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.12.16-07.26.23:735][216]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.12.16-07.27.02:974][390]Candidate modules for hot reload:
+[2020.12.16-07.27.02:974][390]  UnrealGame
+[2020.12.16-07.27.02:974][390]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,6840 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.27.02:978][390]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.27.05:262][577]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:27:05 PM
+[2020.12.16-07.27.05:262][577]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.27.05:262][577]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.27.05:262][577]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.27.05:262][577]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.27.05:262][577]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.27.05:262][577]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-6840.lib
+[2020.12.16-07.27.05:262][577]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6840.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6840.exp
+[2020.12.16-07.27.05:262][577]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-6840.dll
+[2020.12.16-07.27.05:262][577]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6840.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6840.suppressed.exp
+[2020.12.16-07.27.05:262][577]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.27.05:262][577]CompilerResultsLog: Total time in Parallel executor: 1.42 seconds
+[2020.12.16-07.27.05:262][577]CompilerResultsLog: Total execution time: 2.21 seconds
+[2020.12.16-07.27.05:262][577]LogMainFrame: MainFrame: Module compiling took 2.291 seconds
+[2020.12.16-07.27.05:319][577]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.27.05:337][577]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.27.05:345][577]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.27.05:419][577]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.27.05:419][577]Display: HotReload took  2.5s.
+[2020.12.16-07.27.07:044][707]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.27.07:069][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.27.07:069][707]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:27:07 PM)
+[2020.12.16-07.27.07:069][707]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.27.07:103][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032914s)
+[2020.12.16-07.27.07:104][707]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.27.07:104][707]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245837BC800), frame # 28707
+[2020.12.16-07.27.07:104][707]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245837B9580), frame # 28707
+[2020.12.16-07.27.07:104][707]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2020.12.16-07.27.07:104][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.034246s)
+[2020.12.16-07.27.07:169][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.27.07:172][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.27.07:172][707]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.27.07:172][707]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.27.07:182][707]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.27.07:182][707]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.27.07:239][707]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.27.07:239][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.27.07:239][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.27.07:239][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.27.07:239][707]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.27.07:250][707]LogInit: FAudioDevice initialized.
+[2020.12.16-07.27.07:261][707]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.27.07:268][707]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.27.07
+[2020.12.16-07.27.07:268][707]LogWorld: Bringing up level for play took: 0.006847
+[2020.12.16-07.27.07:268][707]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.12.16-07.27.07:271][707]PIE: Server logged in
+[2020.12.16-07.27.07:272][707]PIE: Play in editor total start time 0.206 seconds.
+[2020.12.16-07.27.07:919][765]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.27.13:827][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.27.13:828][467]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.27.13:828][467]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.27.13:829][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.27.13:837][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.27.13:843][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.27.13:880][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.27.13:890][467]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245837B9580), frame # 29467
+[2020.12.16-07.27.13:890][467]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245837BC800), frame # 29467
+[2020.12.16-07.27.13:912][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.12.16-07.27.13:957][468]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.12.16-07.28.02:682][944]Candidate modules for hot reload:
+[2020.12.16-07.28.02:682][944]  UnrealGame
+[2020.12.16-07.28.02:682][944]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,789 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.28.02:687][944]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.28.05:575][118]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:28:05 PM
+[2020.12.16-07.28.05:575][118]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.28.05:575][118]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.28.05:575][118]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.28.05:575][118]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.28.05:575][118]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.28.05:575][118]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-0789.lib
+[2020.12.16-07.28.05:575][118]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0789.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0789.exp
+[2020.12.16-07.28.05:575][118]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-0789.dll
+[2020.12.16-07.28.05:575][118]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0789.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0789.suppressed.exp
+[2020.12.16-07.28.05:575][118]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.28.05:575][118]CompilerResultsLog: Total time in Parallel executor: 1.63 seconds
+[2020.12.16-07.28.05:575][118]CompilerResultsLog: Total execution time: 2.48 seconds
+[2020.12.16-07.28.05:575][118]LogMainFrame: MainFrame: Module compiling took 2.898 seconds
+[2020.12.16-07.28.05:594][118]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.28.05:595][118]Display: HotReload took  2.9s.
+[2020.12.16-07.28.11:052][178]Candidate modules for hot reload:
+[2020.12.16-07.28.11:052][178]  UnrealGame
+[2020.12.16-07.28.11:052][178]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,329 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.28.11:055][178]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.28.13:470][396]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:28:13 PM
+[2020.12.16-07.28.13:470][396]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.28.13:470][396]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.28.13:470][396]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.28.13:470][396]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.28.13:470][396]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.28.13:470][396]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-0329.lib
+[2020.12.16-07.28.13:470][396]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0329.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0329.exp
+[2020.12.16-07.28.13:470][396]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-0329.dll
+[2020.12.16-07.28.13:470][396]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0329.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0329.suppressed.exp
+[2020.12.16-07.28.13:470][396]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.28.13:470][396]CompilerResultsLog: Total time in Parallel executor: 1.53 seconds
+[2020.12.16-07.28.13:470][396]CompilerResultsLog: Total execution time: 2.33 seconds
+[2020.12.16-07.28.13:470][396]LogMainFrame: MainFrame: Module compiling took 2.423 seconds
+[2020.12.16-07.28.13:489][396]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.28.13:489][396]Display: HotReload took  2.4s.
+[2020.12.16-07.28.15:449][564]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.28.15:474][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.28.15:474][564]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:28:15 PM)
+[2020.12.16-07.28.15:474][564]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.28.15:508][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033237s)
+[2020.12.16-07.28.15:509][564]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.28.15:509][564]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000246003AFE00), frame # 30564
+[2020.12.16-07.28.15:509][564]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000246003DD300), frame # 30564
+[2020.12.16-07.28.15:509][564]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2020.12.16-07.28.15:509][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.034531s)
+[2020.12.16-07.28.15:623][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.12.16-07.28.15:627][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.28.15:628][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.28.15:628][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.28.15:628][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.28.15:628][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.28.15:628][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.28.15:628][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.28.15:628][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.28.15:628][564]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.28.15:628][564]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.28.15:638][564]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.28.15:638][564]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.28.15:697][564]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.28.15:698][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.28.15:698][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.28.15:698][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.28.15:698][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.28.15:709][564]LogInit: FAudioDevice initialized.
+[2020.12.16-07.28.15:718][564]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.28.15:725][564]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.28.15
+[2020.12.16-07.28.15:726][564]LogWorld: Bringing up level for play took: 0.006945
+[2020.12.16-07.28.15:726][564]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.12.16-07.28.15:729][564]PIE: Server logged in
+[2020.12.16-07.28.15:730][564]PIE: Play in editor total start time 0.258 seconds.
+[2020.12.16-07.28.16:121][604]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.28.21:648][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.28.21:648][259]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.28.21:648][259]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.28.21:649][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.28.21:660][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.28.21:665][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.28.21:704][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.28.21:714][259]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000246003DD300), frame # 31259
+[2020.12.16-07.28.21:714][259]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000246003AFE00), frame # 31259
+[2020.12.16-07.28.21:738][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.12.16-07.28.21:782][260]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.12.16-07.28.46:400][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.12.16-07.28.46:557][461]LogSavePackage: Moving '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/DefaultMap_Auto1B2DC15C746F9DB650B96CE9B3462AECE.tmp' to '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Autosaves/Game/OurContent/Maps/DefaultMap_Auto1.umap'
+[2020.12.16-07.28.46:561][461]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.184
+[2020.12.16-07.28.46:561][461]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2020.12.16-07.30.20:262][972]Candidate modules for hot reload:
+[2020.12.16-07.30.20:262][972]  UnrealGame
+[2020.12.16-07.30.20:262][972]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,3322 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.30.20:266][972]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.30.26:649][570]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:30:26 PM
+[2020.12.16-07.30.26:649][570]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.30.26:649][570]CompilerResultsLog: Parsing headers for UnrealGameEditor
+[2020.12.16-07.30.26:649][570]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\UnrealGame.uproject" "E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\UnrealGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\boste\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.12.16-07.30.26:649][570]CompilerResultsLog: Error: E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Source/UnrealGame/MovingPlatform.h(56)  : LogCompile: Error: BlueprintPure specifier is not allowed for functions with no return value and no output parameters.
+[2020.12.16-07.30.26:649][570]LogMainFrame: MainFrame: Module compiling took 6.392 seconds
+[2020.12.16-07.30.26:650][570]Warning: HotReload failed, recompile failed
+[2020.12.16-07.30.28:426][704]LogSlate: Took 0.007066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.16-07.30.54:275][617]Candidate modules for hot reload:
+[2020.12.16-07.30.54:275][617]  UnrealGame
+[2020.12.16-07.30.54:275][617]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,63 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.30.54:278][617]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.31.01:605][914]LogSlate: Window 'Message Log' being destroyed
+[2020.12.16-07.31.01:607][914]LogSlate: Window 'Message Log' being destroyed
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:31:02 PM
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Parsing headers for UnrealGameEditor
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\UnrealGame.uproject" "E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\UnrealGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\boste\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Reflection code generated for UnrealGameEditor in 4.8249537 seconds
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:   [1/6] UnrealGame.init.gen.cpp
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:   [2/6] MovingPlatform.cpp
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:   [3/6] MovingPlatform.gen.cpp
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:   [4/6] UE4Editor-UnrealGame-0063.lib
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0063.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0063.exp
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:   [5/6] UE4Editor-UnrealGame-0063.dll
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0063.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-0063.suppressed.exp
+[2020.12.16-07.31.02:139][916]CompilerResultsLog:   [6/6] UnrealGameEditor.target
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Total time in Parallel executor: 1.69 seconds
+[2020.12.16-07.31.02:139][916]CompilerResultsLog: Total execution time: 7.48 seconds
+[2020.12.16-07.31.02:139][916]LogMainFrame: MainFrame: Module compiling took 7.871 seconds
+[2020.12.16-07.31.02:156][916]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3451 classes and 830 folders.
+[2020.12.16-07.31.02:156][916]Display: HotReload took  7.9s.
+[2020.12.16-07.31.07:211][ 85]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.31.07:237][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.31.07:238][ 85]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:31:07 PM)
+[2020.12.16-07.31.07:277][ 85]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.31.07:311][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033411s)
+[2020.12.16-07.31.07:311][ 85]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.31.07:311][ 85]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245B4101A00), frame # 34085
+[2020.12.16-07.31.07:311][ 85]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245E8AF0B80), frame # 34085
+[2020.12.16-07.31.07:312][ 85]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2020.12.16-07.31.07:312][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.034770s)
+[2020.12.16-07.31.07:384][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.12.16-07.31.07:386][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.31.07:386][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.31.07:386][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.31.07:386][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.31.07:386][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.31.07:386][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.31.07:386][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.31.07:386][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.31.07:387][ 85]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.31.07:387][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.31.07:397][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.31.07:397][ 85]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.31.07:459][ 85]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.31.07:459][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.31.07:459][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.31.07:459][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.31.07:460][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.31.07:470][ 85]LogInit: FAudioDevice initialized.
+[2020.12.16-07.31.07:482][ 85]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.31.07:490][ 85]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.31.07
+[2020.12.16-07.31.07:490][ 85]LogWorld: Bringing up level for play took: 0.007660
+[2020.12.16-07.31.07:491][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.12.16-07.31.07:494][ 85]PIE: Server logged in
+[2020.12.16-07.31.07:495][ 85]PIE: Play in editor total start time 0.261 seconds.
+[2020.12.16-07.31.07:918][121]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.31.28:887][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.31.28:887][631]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.31.28:888][631]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.31.28:889][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.31.28:896][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.31.28:902][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.31.28:923][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.31.28:951][631]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245E8AF0B80), frame # 36631
+[2020.12.16-07.31.28:951][631]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245B4101A00), frame # 36631
+[2020.12.16-07.31.28:974][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.12.16-07.31.29:023][632]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.12.16-07.31.50:117][837]LogEditorViewport: Clicking on Actor (LMB): Spikes_C (Spikes)
+[2020.12.16-07.33.05:227][326]LogTemp: Repeating last play command: Simulate
+[2020.12.16-07.33.05:250][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.16-07.33.05:250][326]PIE: New page: SIE session: DefaultMap (Dec 15, 2020, 5:33:05 PM)
+[2020.12.16-07.33.05:287][326]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.33.05:324][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036788s)
+[2020.12.16-07.33.05:325][326]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.16-07.33.05:325][326]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245DC1B4600), frame # 41326
+[2020.12.16-07.33.05:325][326]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002453C227240), frame # 41326
+[2020.12.16-07.33.05:325][326]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2020.12.16-07.33.05:325][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.038365s)
+[2020.12.16-07.33.05:353][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.16-07.33.05:361][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.16-07.33.05:361][326]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.16-07.33.05:361][326]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.16-07.33.05:372][326]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.16-07.33.05:372][326]LogAudioMixer: Display: 1: FrontRight
+[2020.12.16-07.33.05:432][326]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.16-07.33.05:432][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.16-07.33.05:432][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.16-07.33.05:432][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.16-07.33.05:433][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.16-07.33.05:445][326]LogInit: FAudioDevice initialized.
+[2020.12.16-07.33.05:455][326]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.16-07.33.05:463][326]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-00.33.05
+[2020.12.16-07.33.05:464][326]LogWorld: Bringing up level for play took: 0.008645
+[2020.12.16-07.33.05:464][326]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.12.16-07.33.05:468][326]PIE: Server logged in
+[2020.12.16-07.33.05:469][326]PIE: Play in editor total start time 0.219 seconds.
+[2020.12.16-07.33.06:545][420]LogEditorViewport: Clicking on Actor (LMB): Spikes_C (Spikes)
+[2020.12.16-07.33.11:785][947]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.16-07.33.18:646][739]LogEditorViewport: Clicking on Actor (LMB): Spikes_C (Spikes)
+[2020.12.16-07.35.27:548][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.35.27:548][334]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.16-07.35.27:549][334]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-07.35.27:550][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.35.27:560][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.16-07.35.27:566][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.16-07.35.27:589][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-07.35.27:622][334]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002453C227240), frame # 46334
+[2020.12.16-07.35.27:622][334]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245DC1B4600), frame # 46334
+[2020.12.16-07.35.27:627][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.12.16-07.35.27:671][335]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.12.16-07.35.54:323][102]Candidate modules for hot reload:
+[2020.12.16-07.35.54:323][102]  UnrealGame
+[2020.12.16-07.35.54:323][102]Launching UnrealBuildTool... [E:/Unreal/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealGame,6209 UnrealGameEditor Win64 Development -Project="E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject" "E:/Unreal Projects/UnrealGame/UnrealGame/UnrealGame/UnrealGame.uproject"  -IgnoreJunk]
+[2020.12.16-07.35.54:327][102]Warning: Starting HotReload took  0.0s.
+[2020.12.16-07.35.56:600][298]CompilerResultsLog: New page: Compilation - Dec 15, 2020, 5:35:56 PM
+[2020.12.16-07.35.56:600][298]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\UnrealGame\UnrealGame).
+[2020.12.16-07.35.56:600][298]CompilerResultsLog: Building UnrealGameEditor...
+[2020.12.16-07.35.56:600][298]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.16-07.35.56:600][298]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.12.16-07.35.56:600][298]CompilerResultsLog:   [1/4] MovingPlatform.cpp
+[2020.12.16-07.35.56:600][298]CompilerResultsLog:   [2/4] UE4Editor-UnrealGame-6209.lib
+[2020.12.16-07.35.56:600][298]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6209.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6209.exp
+[2020.12.16-07.35.56:600][298]CompilerResultsLog:   [3/4] UE4Editor-UnrealGame-6209.dll
+[2020.12.16-07.35.56:600][298]CompilerResultsLog:      Creating library E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6209.suppressed.lib and object E:\Unreal Projects\UnrealGame\UnrealGame\UnrealGame\Intermediate\Build\Win64\UE4Editor\Development\UnrealGame\UE4Editor-UnrealGame-6209.suppressed.exp
+[2020.12.16-07.35.56:600][298]CompilerResultsLog:   [4/4] UnrealGameEditor.target
+[2020.12.16-07.35.56:600][298]CompilerResultsLog: Total time in Parallel executor: 1.39 seconds
+[2020.12.16-07.35.56:600][298]CompilerResultsLog: Total execution time: 2.19 seconds
+[2020.12.16-07.35.56:600][298]LogMainFrame: MainFrame: Module compiling took 2.279 seconds
+[2020.12.16-07.35.56:681][298]LogClass: Could not find existing class MovingPlatform in package /Script/UnrealGame for HotReload, assuming new class
+[2020.12.16-07.35.56:713][298]LogClass: Function ReturnToStart is new.
+[2020.12.16-07.35.56:717][298]LogHotReload: Re-instancing DashCameraShake after hot-reload.
+[2020.12.16-07.35.56:741][298]LogHotReload: Re-instancing MovingPlatform after hot-reload.
+[2020.12.16-07.35.56:936][298]LogContentBrowser: Native class hierarchy updated for 'UnrealGame' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2020.12.16-07.35.56:944][298]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.16-07.35.58:235][298]LogThreadingWindows: Error: Runnable thread PoolThread 39 crashed.
+[2020.12.16-07.35.58:235][298]LogWindows: Error: === Critical error: ===
+[2020.12.16-07.35.58:235][298]LogWindows: Error: 
+[2020.12.16-07.35.58:235][298]LogWindows: Error: Fatal error!
+[2020.12.16-07.35.58:235][298]LogWindows: Error: 
+[2020.12.16-07.35.58:235][298]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000019
+[2020.12.16-07.35.58:235][298]LogWindows: Error: 
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa30c0de8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa31b5a85 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa31b57a3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa31b486a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa31b3cfe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fff6d41c39c UE4Editor-HotReload.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fff6d41c13e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa381630d UE4Editor-Core.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa3be04db UE4Editor-Core.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffa3bd7eb0 UE4Editor-Core.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffe7a47c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: [Callstack] 0x00007fffe87ad4d1 ntdll.dll!UnknownFunction []
+[2020.12.16-07.35.58:235][298]LogWindows: Error: 
+[2020.12.16-07.35.58:235][298]LogWindows: Error: Crash in runnable thread PoolThread 39
+[2020.12.16-07.35.58:258][298]LogExit: Executing StaticShutdownAfterError
+[2020.12.16-07.35.58:258][298]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.12.16-07.35.58:258][298]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.12.16-07.35.58:266][298]Log file closed, 12/16/20 00:35:58

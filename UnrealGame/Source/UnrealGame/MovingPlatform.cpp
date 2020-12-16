@@ -37,6 +37,7 @@ void AMovingPlatform::BeginPlay()
 		zSpeed = -zSpeed;
 	}
 	startMoving = !useActivationBox;
+	startPos = K2_GetActorLocation();
 }
 
 void AMovingPlatform::Move() {
@@ -63,7 +64,7 @@ void AMovingPlatform::Move() {
 	}
 	SetActorLocation(position);
 }
-//GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, "Hello", false);
+
 void AMovingPlatform::Reverse() {
 	if(currXPos >= xDistance && xDistance != 0) {
 		xSpeed = -xSpeed;
@@ -76,7 +77,11 @@ void AMovingPlatform::Reverse() {
 	if(currZPos >= zDistance && zDistance != 0) {
 		zSpeed = -zSpeed;
 		currZPos = 0;
+		if (startReturning) {
+			startMoving = false;
+		}
 	}
+
 }
 
 bool AMovingPlatform::CheckIfComplete(int axis, int endPoint) {
@@ -85,13 +90,22 @@ bool AMovingPlatform::CheckIfComplete(int axis, int endPoint) {
 	}
 	return true;
 }
+
+int AMovingPlatform::ReturnToStart() {
+	if (zSpeed < 0) {
+		zSpeed = -zSpeed;
+		currZPos = 0;
+	}
+	startReturning = true;
+	return 0;
+}
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
 {
-	
 	Super::Tick(DeltaTime);
 	if (!reachedEnd && startMoving) {
 		Move();
 	}
+
 }
 
