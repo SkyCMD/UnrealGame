@@ -4199,3 +4199,1632 @@ Purging the undo buffer...
 [2020.12.16-22.22.39:851][971]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000249B3F04800), frame # 347971
 [2020.12.16-22.22.39:855][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2020.12.16-22.22.39:894][972]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.12.16-22.28.16:083][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.12.16-22.28.16:230][763]LogSavePackage: Moving '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/DefaultMap_Auto728FD95714F103A60E22D9B8103D28596.tmp' to '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Autosaves/Game/OurContent/Maps/DefaultMap_Auto7.umap'
+[2020.12.16-22.28.16:231][763]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.167
+[2020.12.16-22.28.16:231][763]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
+[2020.12.16-22.38.16:123][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.12.16-22.38.16:146][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.039
+[2020.12.16-22.48.16:031][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.16-22.48.16:054][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.039
+[2020.12.16-22.58.15:940][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.12.16-22.58.15:964][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.041
+[2020.12.16-23.08.15:848][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.12.16-23.08.15:871][480]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.040
+[2020.12.16-23.18.15:755][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.16-23.18.15:779][409]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.040
+[2020.12.16-23.28.15:666][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.12.16-23.28.15:690][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.041
+[2020.12.16-23.38.15:575][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.16-23.38.15:600][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.043
+[2020.12.16-23.48.15:498][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.12.16-23.48.15:522][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.041
+[2020.12.16-23.58.15:411][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.16-23.58.15:435][133]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.041
+[2020.12.17-00.08.15:313][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.17-00.08.15:336][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.040
+[2020.12.17-00.13.46:640][399]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.17-00.14.52:941][384]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2020.12.17-00.15.05:889][519]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2020.12.17-00.15.11:533][115]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2020.12.17-00.15.16:341][652]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.17-00.15.23:187][243]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2020.12.17-00.17.41:112][703]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2020.12.17-00.17.47:601][459]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2020.12.17-00.17.50:338][757]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.17-00.18.30:510][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.17-00.18.30:685][343]LogSavePackage: Moving '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/DefaultMap_Auto8362DD03A480BD0FEC5ED1F96ED395C82.tmp' to '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Autosaves/Game/OurContent/Maps/DefaultMap_Auto8.umap'
+[2020.12.17-00.18.30:689][343]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.195
+[2020.12.17-00.18.30:689][343]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2020.12.17-00.19.55:762][503]MapCheck: New page: Map Check
+[2020.12.17-00.19.55:775][503]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.17-00.19.55:775][503]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.17-00.19.56:054][503]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=false
+[2020.12.17-00.19.56:469][503]LightingResults: New page: Lighting Build - Dec 16, 2020, 10:19:56 AM
+[2020.12.17-00.19.56:487][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:487][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:487][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:487][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:487][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:487][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:488][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.19.56:490][503]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.17-00.19.56:495][503]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.17-00.19.56:495][503]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.17-00.19.56:496][503]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.17-00.19.56:496][503]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12232
+[2020.12.17-00.20.01:009][503]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.17-00.20.01:009][503]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.17-00.20.01:009][503]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.17-00.20.01:009][503]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.17-00.20.01:009][503]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.17-00.20.01:215][503]LogEditorBuildUtils: Build time 0:05
+[2020.12.17-00.20.01:865][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.12.17-00.21.10:765][713]LightingResults: Warning: Concrete_Stone_LOD0_uc1jagnjw Object has wrapping UVs.
+[2020.12.17-00.21.13:461][721]LightingResults: Warning: Concrete_Stone_LOD0_uc1jagnjw Object has wrapping UVs.
+[2020.12.17-00.22.34:807][750]Job is a success!
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.035s
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:      Indirection Texture 16x48x16 = 0.0Mb
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:          1: 6.8% covering 5.2% of volume
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:          2: 91.2% covering 1.1% of volume
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.17-00.22.35:344][751]LogVolumetricLightmapImport:          DefaultMap 			 147 bricks 	 100.0% (Persistent Level)
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight7_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: SpotLight2_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight9_7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight13 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.37:125][751]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:134][751]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 2048X1024)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 2048X2048)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 64X32)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 64X64)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 64X64)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 64X32)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 64X64)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 2048X2048)
+[2020.12.17-00.22.40:135][751]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 64X64)
+[2020.12.17-00.22.40:335][751]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X64)
+[2020.12.17-00.22.40:534][751]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X512)
+[2020.12.17-00.22.40:734][751]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2020.12.17-00.22.40:934][751]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X1024)
+[2020.12.17-00.22.40:934][751]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2020.12.17-00.22.41:108][751]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2020.12.17-00.22.41:219][751]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 2048X1024)
+[2020.12.17-00.22.43:312][751]Lightmass on DESKTOP-JKG5DN5: 2:40 min total, 925 ms importing, 3.95 sec setup, 16.4 sec photons, 2:17 min processing, 0 ms extra exporting [1391/1391 mappings]. Threads: 25:08 min total, 16:33 min processing.
+[2020.12.17-00.22.43:457][751]LogStaticLightingSystem: DefaultMap_BuiltData storing lightmap data for 485 meshes in 41 LightmapResourceClusters (11.8 Meshes per cluster).
+[2020.12.17-00.22.43:497][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.12.17-00.22.45:019][751]LogStaticLightingSystem: Illumination: 2:48 min (3.01 sec encoding lightmaps, 1.08 sec encoding shadowmaps)
+[2020.12.17-00.22.45:019][751]LogStaticLightingSystem: Lightmap texture memory:  48.2 MB (26.9 MB streaming, 21.3 MB non-streaming), 30 textures
+[2020.12.17-00.22.45:019][751]LogStaticLightingSystem: Shadowmap texture memory: 35.0 MB (24.3 MB streaming, 10.7 MB non-streaming), 7 textures
+[2020.12.17-00.22.50:130][751]DumpUnbuiltLightIteractions
+[2020.12.17-00.22.50:130][751]Lights with unbuilt interactions: 1
+[2020.12.17-00.22.50:130][751]    Light PointLight_1
+[2020.12.17-00.22.50:130][751]
+[2020.12.17-00.22.50:130][751]Primitives with unbuilt interactions: 1
+[2020.12.17-00.22.50:130][751]    Primitive FoliageInstancedStaticMeshComponent /Game/OurContent/Maps/DefaultMap.DefaultMap:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_11
+[2020.12.17-00.22.50:278][752]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.17-00.22.50:278][752]MapCheck: New page: DefaultMap - Dec 16, 2020, 10:22:50 AM
+[2020.12.17-00.22.50:278][752]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.12.17-00.22.50:279][752]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.241ms to complete.
+[2020.12.17-00.22.51:464][833]LogSlate: Window 'Message Log' being destroyed
+[2020.12.17-00.22.51:466][833]LogSlate: Window 'Message Log' being destroyed
+[2020.12.17-00.22.53:688][839]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.22.53:714][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.22.53:714][839]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:22:53 AM)
+[2020.12.17-00.22.53:714][839]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.22.53:751][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037040s)
+[2020.12.17-00.22.53:752][839]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.22.53:752][839]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024A7BA82200), frame # 1149839
+[2020.12.17-00.22.53:752][839]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000249E9D79080), frame # 1149839
+[2020.12.17-00.22.53:753][839]LogPlayLevel: PIE: World Init took: (0.001388s)
+[2020.12.17-00.22.53:753][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.038597s)
+[2020.12.17-00.22.53:770][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.22.53:799][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.22.53:799][839]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.22.53:799][839]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.22.53:998][839]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.22.53:998][839]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.22.54:047][839]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.22.54:047][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.22.54:047][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.22.54:047][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.22.54:048][839]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.22.54:061][839]LogInit: FAudioDevice initialized.
+[2020.12.17-00.22.54:066][839]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.22.54:074][839]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.22.54
+[2020.12.17-00.22.54:074][839]LogWorld: Bringing up level for play took: 0.007885
+[2020.12.17-00.22.54:075][839]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.12.17-00.22.54:078][839]PIE: Server logged in
+[2020.12.17-00.22.54:079][839]PIE: Play in editor total start time 0.366 seconds.
+[2020.12.17-00.22.55:063][941]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.23.01:883][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.23.01:883][748]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.23.01:883][748]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.23.01:885][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.23.01:893][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.23.01:898][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.23.01:916][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.23.01:935][748]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000249E9D79080), frame # 1150748
+[2020.12.17-00.23.01:935][748]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024A7BA82200), frame # 1150748
+[2020.12.17-00.23.01:938][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.17-00.23.01:980][749]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.12.17-00.23.08:845][415]LogEditorViewport: Clicking on Actor (LMB): BP_Train_C (BP_Train)
+[2020.12.17-00.23.28:112][226]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurContent/Blueprints/BP_Train.BP_Train
+[2020.12.17-00.23.40:090][518]BlueprintLog: New page: Compile BP_Train
+[2020.12.17-00.23.40:180][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.17-00.23.40:604][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurContent/Blueprints/BP_Train" FILE="../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/OurContent/Blueprints/BP_Train.uasset" SILENT=true
+[2020.12.17-00.23.40:641][554]LogSavePackage: Moving '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/BP_Train987748274F868A3822C75CA55D06C578.tmp' to '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Content/OurContent/Blueprints/BP_Train.uasset'
+[2020.12.17-00.23.40:659][554]AssetCheck: New page: Asset Save: BP_Train
+[2020.12.17-00.23.40:659][554]LogContentValidation: Display: Validating Blueprint /Game/OurContent/Blueprints/BP_Train.BP_Train
+[2020.12.17-00.23.41:947][672]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.23.41:970][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.23.41:970][672]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:23:41 AM)
+[2020.12.17-00.23.42:052][672]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.23.42:090][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038379s)
+[2020.12.17-00.23.42:091][672]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.23.42:091][672]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000249BB59B200), frame # 1154672
+[2020.12.17-00.23.42:091][672]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000249685474C0), frame # 1154672
+[2020.12.17-00.23.42:092][672]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2020.12.17-00.23.42:092][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.039765s)
+[2020.12.17-00.23.42:118][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.23.42:122][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.23.42:122][672]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.23.42:122][672]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.23.42:132][672]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.23.42:132][672]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.23.42:206][672]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.23.42:206][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.23.42:206][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.23.42:206][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.23.42:207][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.23.42:220][672]LogInit: FAudioDevice initialized.
+[2020.12.17-00.23.42:229][672]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.23.42:236][672]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.23.42
+[2020.12.17-00.23.42:237][672]LogWorld: Bringing up level for play took: 0.007932
+[2020.12.17-00.23.42:237][672]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.12.17-00.23.42:241][672]PIE: Server logged in
+[2020.12.17-00.23.42:241][672]PIE: Play in editor total start time 0.272 seconds.
+[2020.12.17-00.23.43:254][773]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.23.51:133][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.23.51:133][712]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.23.51:134][712]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.23.51:137][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.23.51:154][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.23.51:158][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.23.51:200][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.23.51:205][712]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000249685474C0), frame # 1155712
+[2020.12.17-00.23.51:205][712]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000249BB59B200), frame # 1155712
+[2020.12.17-00.23.51:208][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.12.17-00.23.51:249][713]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.12.17-00.24.06:883][385]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.17-00.24.19:247][539]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2020.12.17-00.24.20:821][680]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2020.12.17-00.24.34:263][998]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.12.17-00.24.49:510][700]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/UnrealGame.MainPlayer
+[2020.12.17-00.25.29:419][751]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2020.12.17-00.26.27:425][456]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Built_In_Content/SCK_Casual01/Mannequin/Animations/ThirdPersonRunBetter.ThirdPersonRunBetter
+[2020.12.17-00.26.27:672][456]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0509 seconds. Added 1 classes and 2 folders.
+[2020.12.17-00.26.27:947][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.17-00.26.27:994][456]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2020.12.17-00.26.29:178][456]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.12.17-00.26.32:780][857]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.26.32:780][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.26.32:989][857]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.26.32:989][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.26.35:449][ 10]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Built_In_Content/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.12.17-00.26.35:454][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.17-00.26.35:485][ 10]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.17-00.26.35:805][ 10]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.12.17-00.26.38:784][288]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Built_In_Content/SCK_Casual01/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.12.17-00.26.43:155][643]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Built_In_Content/SCK_Casual01/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.12.17-00.26.46:392][936]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Built_In_Content/SCK_Casual01/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.12.17-00.26.48:391][148]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.26.48:391][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.26.48:541][148]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.26.48:541][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.26.51:047][344]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Built_In_Content/SCK_Casual01/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.12.17-00.26.51:055][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.17-00.26.51:447][344]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.17-00.27.11:900][629]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Built_In_Content/SCK_Casual01/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.12.17-00.27.11:904][629]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.17-00.27.12:295][629]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.12.17-00.27.36:309][211]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Materials/Old_Concrete_Wall_2x2_M_ugsifevlw_surface_inst.Old_Concrete_Wall_2x2_M_ugsifevlw_surface_inst
+[2020.12.17-00.27.39:070][408]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:30).
+[2020.12.17-00.27.39:359][439]LogSlate: Window 'Old_Concrete_Wall_2x2_M_ugsifevlw_surface_inst' being destroyed
+[2020.12.17-00.28.19:470][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurContent/Blueprints/BP_Character.BP_Character
+[2020.12.17-00.29.18:221][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.12.17-00.29.18:383][ 41]LogSavePackage: Moving '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/DefaultMap_Auto915845E88467701C755A603ABC63E13B8.tmp' to '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Autosaves/Game/OurContent/Maps/DefaultMap_Auto9.umap'
+[2020.12.17-00.29.18:387][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.300
+[2020.12.17-00.29.18:387][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.300
+[2020.12.17-00.30.13:038][955]LogRenderer: Reallocating scene render targets to support 1344x920 Format 10 NumSamples 1 (Frame:984170).
+[2020.12.17-00.30.13:077][956]LogRenderer: Reallocating scene render targets to support 1356x920 Format 10 NumSamples 1 (Frame:984172).
+[2020.12.17-00.30.13:141][957]LogRenderer: Reallocating scene render targets to support 1384x920 Format 10 NumSamples 1 (Frame:984174).
+[2020.12.17-00.30.13:182][958]LogRenderer: Reallocating scene render targets to support 1388x920 Format 10 NumSamples 1 (Frame:984176).
+[2020.12.17-00.37.34:878][872]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.39.18:865][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.12.17-00.39.18:874][372]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.086
+[2020.12.17-00.39.18:875][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OurContent/Blueprints/BP_Character] ([1] browsable assets)...
+[2020.12.17-00.39.18:875][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurContent/Blueprints/BP_Character]
+[2020.12.17-00.39.18:940][372]LogSavePackage: Moving '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/BP_Character_Auto050AFB6C641A4A06E335546BD12ADD6C3.tmp' to '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Autosaves/Game/OurContent/Blueprints/BP_Character_Auto0.uasset'
+[2020.12.17-00.39.18:941][372]LogFileHelpers: Auto-saving content packages took 0.067
+[2020.12.17-00.41.41:982][613]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.12.17-00.41.45:540][895]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.41.45:565][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.41.45:565][895]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:41:45 AM)
+[2020.12.17-00.41.45:594][895]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.41.45:636][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042542s)
+[2020.12.17-00.41.45:637][895]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.41.45:637][895]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024BC7BE0A00), frame # 1209895
+[2020.12.17-00.41.45:637][895]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024968547740), frame # 1209895
+[2020.12.17-00.41.45:638][895]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2020.12.17-00.41.45:638][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.043916s)
+[2020.12.17-00.41.45:681][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.12.17-00.41.45:688][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.41.45:688][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.41.45:688][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.41.45:688][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.41.45:688][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.41.45:688][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.41.45:688][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.41.45:688][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.41.45:689][895]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.41.45:689][895]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.41.45:700][895]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.41.45:700][895]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.41.45:760][895]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.41.45:760][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.41.45:760][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.41.45:760][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.41.45:761][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.41.45:774][895]LogInit: FAudioDevice initialized.
+[2020.12.17-00.41.45:786][895]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.41.45:793][895]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.41.45
+[2020.12.17-00.41.45:794][895]LogWorld: Bringing up level for play took: 0.007574
+[2020.12.17-00.41.45:794][895]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.12.17-00.41.45:798][895]PIE: Server logged in
+[2020.12.17-00.41.45:798][895]PIE: Play in editor total start time 0.234 seconds.
+[2020.12.17-00.41.46:636][971]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.41.47:574][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.41.47:574][ 75]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.41.47:575][ 75]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.41.47:576][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.41.47:595][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.41.47:603][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.41.47:654][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.41.47:660][ 75]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024968547740), frame # 1210075
+[2020.12.17-00.41.47:660][ 75]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024BC7BE0A00), frame # 1210075
+[2020.12.17-00.41.47:664][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.12.17-00.41.47:812][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.12.17-00.41.49:449][192]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.41.55:387][680]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.41.55:410][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.41.55:410][680]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:41:55 AM)
+[2020.12.17-00.41.55:454][680]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.41.55:515][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061605s)
+[2020.12.17-00.41.55:516][680]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.41.55:516][680]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024A7D46B400), frame # 1210680
+[2020.12.17-00.41.55:516][680]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024A84F6F740), frame # 1210680
+[2020.12.17-00.41.55:516][680]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2020.12.17-00.41.55:517][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.063000s)
+[2020.12.17-00.41.55:552][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.12.17-00.41.55:560][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.41.55:560][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.41.55:560][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.41.55:560][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.41.55:560][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.41.55:561][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.41.55:561][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.41.55:561][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.41.55:561][680]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.41.55:561][680]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.41.55:571][680]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.41.55:572][680]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.41.55:620][680]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.41.55:620][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.41.55:620][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.41.55:620][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.41.55:620][680]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.41.55:634][680]LogInit: FAudioDevice initialized.
+[2020.12.17-00.41.55:643][680]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.41.55:651][680]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.41.55
+[2020.12.17-00.41.55:651][680]LogWorld: Bringing up level for play took: 0.007978
+[2020.12.17-00.41.55:652][680]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2020.12.17-00.41.55:655][680]PIE: Server logged in
+[2020.12.17-00.41.55:656][680]PIE: Play in editor total start time 0.246 seconds.
+[2020.12.17-00.41.56:063][720]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.41.57:225][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.41.57:225][852]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.41.57:225][852]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.41.57:227][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.41.57:239][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.41.57:247][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.41.57:280][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.41.57:303][852]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024A84F6F740), frame # 1210852
+[2020.12.17-00.41.57:303][852]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024A7D46B400), frame # 1210852
+[2020.12.17-00.41.57:307][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.12.17-00.41.57:409][853]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.12.17-00.41.58:196][922]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.42.02:571][285]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.42.02:594][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.42.02:594][285]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:42:02 AM)
+[2020.12.17-00.42.02:613][285]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.02:655][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041315s)
+[2020.12.17-00.42.02:656][285]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.42.02:656][285]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000249EC4EC800), frame # 1211285
+[2020.12.17-00.42.02:656][285]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000249F3B7D080), frame # 1211285
+[2020.12.17-00.42.02:656][285]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2020.12.17-00.42.02:656][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.042680s)
+[2020.12.17-00.42.02:692][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.42.02:697][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.42.02:697][285]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.42.02:697][285]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.42.02:708][285]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.42.02:708][285]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.42.02:756][285]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.42.02:756][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.42.02:756][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.42.02:756][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.42.02:757][285]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.42.02:770][285]LogInit: FAudioDevice initialized.
+[2020.12.17-00.42.02:794][285]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.42.02:801][285]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.42.02
+[2020.12.17-00.42.02:802][285]LogWorld: Bringing up level for play took: 0.007541
+[2020.12.17-00.42.02:802][285]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2020.12.17-00.42.02:805][285]PIE: Server logged in
+[2020.12.17-00.42.02:807][285]PIE: Play in editor total start time 0.214 seconds.
+[2020.12.17-00.42.03:193][323]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.42.03:808][392]Cmd: SELECT NONE
+[2020.12.17-00.42.04:885][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.04:885][513]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.04:885][513]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.42.04:887][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.04:901][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.42.04:907][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.04:939][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.04:961][513]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000249F3B7D080), frame # 1211513
+[2020.12.17-00.42.04:961][513]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000249EC4EC800), frame # 1211513
+[2020.12.17-00.42.04:965][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.12.17-00.42.05:018][514]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2020.12.17-00.42.25:153][248]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.42.25:248][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.42.25:249][248]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:42:25 AM)
+[2020.12.17-00.42.25:249][248]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.25:289][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040652s)
+[2020.12.17-00.42.25:290][248]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.42.25:290][248]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024A5A553200), frame # 1213248
+[2020.12.17-00.42.25:290][248]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024A99600CC0), frame # 1213248
+[2020.12.17-00.42.25:291][248]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2020.12.17-00.42.25:291][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.041919s)
+[2020.12.17-00.42.25:327][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.12.17-00.42.25:334][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.42.25:334][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.42.25:334][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.42.25:334][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.42.25:334][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.42.25:334][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.42.25:334][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.42.25:334][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.42.25:334][248]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.42.25:335][248]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.42.25:344][248]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.42.25:344][248]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.42.25:397][248]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.42.25:397][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.42.25:397][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.42.25:397][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.42.25:398][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.42.25:411][248]LogInit: FAudioDevice initialized.
+[2020.12.17-00.42.25:418][248]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.42.25:427][248]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.42.25
+[2020.12.17-00.42.25:428][248]LogWorld: Bringing up level for play took: 0.009476
+[2020.12.17-00.42.25:428][248]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2020.12.17-00.42.25:432][248]PIE: Server logged in
+[2020.12.17-00.42.25:433][248]PIE: Play in editor total start time 0.185 seconds.
+[2020.12.17-00.42.25:800][285]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.42.27:055][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.27:055][423]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.27:055][423]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.42.27:057][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.27:067][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.42.27:073][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.27:124][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.27:130][423]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024A99600CC0), frame # 1213423
+[2020.12.17-00.42.27:130][423]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024A5A553200), frame # 1213423
+[2020.12.17-00.42.27:133][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.12.17-00.42.27:171][424]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.12.17-00.42.29:472][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Broken_Concrete_Slab_LOD0_tmclcaeiw5)
+[2020.12.17-00.42.29:978][646]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.42.41:195][493]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.42.41:229][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.42.41:229][493]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:42:41 AM)
+[2020.12.17-00.42.41:255][493]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.41:298][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043441s)
+[2020.12.17-00.42.41:299][493]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.42.41:299][493]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000249E851F400), frame # 1214493
+[2020.12.17-00.42.41:299][493]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024A22956C00), frame # 1214493
+[2020.12.17-00.42.41:299][493]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2020.12.17-00.42.41:299][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.044826s)
+[2020.12.17-00.42.41:335][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.12.17-00.42.41:344][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.42.41:344][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.42.41:344][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.42.41:344][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.42.41:344][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.42.41:344][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.42.41:344][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.42.41:344][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.42.41:345][493]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.42.41:345][493]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.42.41:354][493]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.42.41:354][493]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.42.41:403][493]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.42.41:403][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.42.41:403][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.42.41:403][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.42.41:403][493]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.42.41:417][493]LogInit: FAudioDevice initialized.
+[2020.12.17-00.42.41:427][493]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.42.41:434][493]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.42.41
+[2020.12.17-00.42.41:435][493]LogWorld: Bringing up level for play took: 0.007787
+[2020.12.17-00.42.41:435][493]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2020.12.17-00.42.41:438][493]PIE: Server logged in
+[2020.12.17-00.42.41:439][493]PIE: Play in editor total start time 0.211 seconds.
+[2020.12.17-00.42.41:774][525]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.42.43:484][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.43:484][723]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.43:485][723]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.42.43:487][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.43:497][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.42.43:503][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.43:535][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.43:561][723]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024A22956C00), frame # 1214723
+[2020.12.17-00.42.43:561][723]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000249E851F400), frame # 1214723
+[2020.12.17-00.42.43:564][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.12.17-00.42.43:608][724]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.12.17-00.42.45:205][840]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.42.47:765][ 36]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.42.47:790][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.42.47:790][ 36]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:42:47 AM)
+[2020.12.17-00.42.47:790][ 36]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.47:830][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040040s)
+[2020.12.17-00.42.47:831][ 36]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.42.47:831][ 36]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024A02FA9400), frame # 1215036
+[2020.12.17-00.42.47:831][ 36]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024A5C7AE0C0), frame # 1215036
+[2020.12.17-00.42.47:832][ 36]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2020.12.17-00.42.47:832][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.041734s)
+[2020.12.17-00.42.47:868][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.42.47:872][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.42.47:872][ 36]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.42.47:872][ 36]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.42.47:882][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.42.47:882][ 36]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.42.47:931][ 36]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.42.47:931][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.42.47:931][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.42.47:931][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.42.47:932][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.42.47:944][ 36]LogInit: FAudioDevice initialized.
+[2020.12.17-00.42.47:955][ 36]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.42.47:964][ 36]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.42.47
+[2020.12.17-00.42.47:965][ 36]LogWorld: Bringing up level for play took: 0.009165
+[2020.12.17-00.42.47:965][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.12.17-00.42.47:968][ 36]PIE: Server logged in
+[2020.12.17-00.42.47:970][ 36]PIE: Play in editor total start time 0.181 seconds.
+[2020.12.17-00.42.48:341][ 73]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.42.49:274][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.49:274][177]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.42.49:275][177]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.42.49:276][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.49:283][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.42.49:290][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.42.49:340][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.42.49:345][177]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024A5C7AE0C0), frame # 1215177
+[2020.12.17-00.42.49:345][177]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024A02FA9400), frame # 1215177
+[2020.12.17-00.42.49:348][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.12.17-00.42.49:391][178]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.12.17-00.42.50:170][243]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.43.01:529][257]MapCheck: New page: Map Check
+[2020.12.17-00.43.01:539][257]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.17-00.43.01:539][257]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.17-00.43.01:948][257]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=false
+[2020.12.17-00.43.02:819][257]LightingResults: New page: Lighting Build - Dec 16, 2020, 10:43:02 AM
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:830][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:831][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:831][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:831][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:831][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:831][257]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.43.02:833][257]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.17-00.43.02:842][257]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.17-00.43.02:842][257]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.17-00.43.02:843][257]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.17-00.43.02:843][257]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12232
+[2020.12.17-00.43.07:359][257]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.17-00.43.07:360][257]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.17-00.43.07:360][257]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.17-00.43.07:360][257]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.17-00.43.07:360][257]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.17-00.43.07:595][257]LogEditorBuildUtils: Build time 0:06
+[2020.12.17-00.43.08:467][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.12.17-00.43.29:800][404]LightingResults: Warning: Concrete_Stone_LOD0_uc1jagnjw Object has wrapping UVs.
+[2020.12.17-00.43.42:930][443]LightingResults: Warning: Concrete_Stone_LOD0_uc1jagnjw Object has wrapping UVs.
+[2020.12.17-00.44.04:319][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.17-00.44.09:472][937]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.44.24:051][814]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.17-00.45.49:661][782]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2020.12.17-00.45.56:630][274]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.17-00.46.07:530][  0]Job is a success!
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.033s
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:      Indirection Texture 16x48x16 = 0.0Mb
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:          1: 6.8% covering 5.2% of volume
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:          2: 91.1% covering 1.1% of volume
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.17-00.46.07:979][  1]LogVolumetricLightmapImport:          DefaultMap 			 146 bricks 	 100.0% (Persistent Level)
+[2020.12.17-00.46.07:980][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:981][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:981][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:982][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:982][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:983][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:983][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:983][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:986][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:987][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:987][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:987][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:988][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:989][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:990][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:991][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.07:992][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:006][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:007][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:072][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:072][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:073][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:092][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:092][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:092][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:093][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:093][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:093][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:094][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:101][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:101][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:109][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:110][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:111][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:113][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:113][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:113][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:114][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:115][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:116][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:116][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:118][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:120][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:121][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:121][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:122][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:129][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:130][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:132][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:132][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:132][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:133][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:134][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:135][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:135][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:135][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:141][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:143][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:144][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:145][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:145][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:147][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:147][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:148][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:148][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:149][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:153][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:153][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:155][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:155][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:156][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:156][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:157][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:162][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:162][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:165][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:166][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:166][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:167][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:167][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:174][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:175][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:175][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:177][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:177][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:178][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:179][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:179][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:180][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:182][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:184][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:184][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:184][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:185][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:190][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:190][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:191][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:192][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:192][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:194][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:196][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:197][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:200][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:203][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:203][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:204][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:206][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:206][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:207][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:208][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:208][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:210][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:210][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:213][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:215][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:217][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:217][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:218][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:219][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:220][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:220][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:221][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:221][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:222][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:222][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:222][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:223][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:223][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:224][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:224][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:228][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:230][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:231][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:232][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:233][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:234][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:236][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:237][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:238][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:239][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:241][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:242][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:243][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:243][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:245][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:246][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:246][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:250][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:250][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:252][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:253][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:253][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:255][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:257][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:257][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:257][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:259][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:260][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:263][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:264][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:264][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:266][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:266][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:269][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:271][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:271][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:271][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:273][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:274][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:276][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:277][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:277][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:278][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:279][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:279][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:281][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:287][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:288][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:288][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:289][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:289][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:291][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:291][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:292][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:294][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:295][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:295][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:299][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:299][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:300][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:300][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:301][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:301][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:302][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:303][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:304][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:304][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:305][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:308][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:309][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:310][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:310][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:311][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:316][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:317][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:317][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:317][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:318][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:319][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:320][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:322][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:325][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:325][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:326][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:326][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:327][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:328][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:329][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:329][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:331][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:332][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:332][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:334][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:334][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:335][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:335][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:338][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:341][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:342][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:342][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:343][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:346][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:346][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:347][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:348][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:349][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:349][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:351][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:351][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:352][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:352][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:353][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:354][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:354][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:354][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:356][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:357][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:357][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:357][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:360][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:360][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:361][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:362][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:363][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:364][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:364][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:365][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:366][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:367][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:368][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:369][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:370][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:370][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:371][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:372][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:373][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:373][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:373][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:373][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:374][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:374][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:375][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:376][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:377][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:377][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:378][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:379][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:379][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:380][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:380][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:381][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:382][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:383][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:384][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:384][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:384][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:385][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:385][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:385][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:386][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:386][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:386][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:387][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:387][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:388][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:388][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:389][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:389][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:390][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:391][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:391][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:393][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:393][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:394][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:394][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:394][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:395][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:397][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:397][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:397][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:399][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:399][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:399][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:400][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:401][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:401][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:403][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:403][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:403][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:404][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:404][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:404][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:406][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:406][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:407][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:409][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:409][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:410][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:410][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:412][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:412][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:412][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:413][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:414][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:414][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:415][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:415][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:415][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:417][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:418][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:418][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:420][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:420][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:422][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:424][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:425][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:426][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:426][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:428][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:430][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:430][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:431][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:431][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:432][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:433][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:434][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:434][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:435][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:436][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:437][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:438][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:438][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:439][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:440][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:440][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:441][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:441][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:442][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:444][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:445][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:445][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:446][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:448][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:449][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:450][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:451][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:452][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:453][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:454][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:456][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:456][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:457][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:458][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:458][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:460][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:461][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:462][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:462][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:463][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:474][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:474][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:475][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:475][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:476][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:477][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:478][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:479][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:479][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:479][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:482][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:482][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:482][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:483][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:483][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:484][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:484][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:485][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:486][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:486][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:487][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:489][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:490][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:491][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:491][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:492][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:493][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:494][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:496][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:497][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:497][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:498][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:499][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:499][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:500][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:500][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:501][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:502][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:502][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:503][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:504][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:504][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:504][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:506][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:506][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:507][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:507][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:508][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:509][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:510][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:510][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:510][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:511][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:512][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:513][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:513][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:514][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:514][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:515][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:516][  1]LogLightmassSolver: Warning: Mapping not found for 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:516][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:516][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:517][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:518][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:519][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:520][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:521][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:521][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:522][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:523][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:524][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:525][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:525][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:526][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:527][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:528][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:528][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:528][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:529][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:530][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:530][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:531][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:532][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:533][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:534][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:534][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:535][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:535][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:535][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:536][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:537][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:538][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:538][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:538][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:539][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:539][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:540][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:541][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:542][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:542][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:543][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:544][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:545][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:545][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:546][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:547][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:547][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:548][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:548][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:549][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:549][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:550][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:550][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:551][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:551][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:552][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:553][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:554][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:554][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:555][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:556][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:556][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:556][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:557][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:557][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:558][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:558][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:559][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:559][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:560][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: 907FB48F48DAFBE95909F28496B91064
+[2020.12.17-00.46.08:560][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:561][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:562][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:563][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:564][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:565][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:566][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:566][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:567][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:567][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:569][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:570][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:571][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:572][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:575][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:576][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:578][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:579][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:580][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:580][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:580][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:581][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:582][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:583][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:585][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:586][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:586][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:588][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:588][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:590][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:590][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:591][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:591][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:592][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:592][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:593][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:593][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:594][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:594][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:595][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:596][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:596][  1]LogLightmassSolver: Warning: Mapping not found for D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:597][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:598][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:599][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:603][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:603][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:603][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:604][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:605][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:605][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:605][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:606][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:606][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:608][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:609][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:610][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:610][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:610][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.08:611][  1]LogLightmassSolver: Warning: Failed to find light for texture mapping: D1304E2E4CB4D26CDA473CAEA5B038FC
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: PointLight7_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: SpotLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: PointLight12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: PointLight9_7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.09:831][  1]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:966][  1]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 2048X2048)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 2048X1024)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 64X32)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 64X64)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 64X32)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 64X64)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 64X64)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 64X64)
+[2020.12.17-00.46.12:967][  1]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 2048X2048)
+[2020.12.17-00.46.13:366][  1]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 1024X64)
+[2020.12.17-00.46.13:566][  1]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 1024X512)
+[2020.12.17-00.46.13:767][  1]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 1024X1024)
+[2020.12.17-00.46.13:767][  1]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 1024X1024)
+[2020.12.17-00.46.13:767][  1]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X1024)
+[2020.12.17-00.46.13:767][  1]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X1024)
+[2020.12.17-00.46.14:001][  1]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 2048X1024)
+[2020.12.17-00.46.14:001][  1]Lightmass on DESKTOP-JKG5DN5: 3:04 min total, 503 ms importing, 3.09 sec setup, 15.9 sec photons, 2:45 min processing, 0 ms extra exporting [1389/1389 mappings]. Threads: 30:16 min total, 20:11 min processing.
+[2020.12.17-00.46.14:011][  1]LogStaticLightingSystem: DefaultMap_BuiltData storing lightmap data for 483 meshes in 41 LightmapResourceClusters (11.8 Meshes per cluster).
+[2020.12.17-00.46.14:073][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.12.17-00.46.18:795][  1]LogStaticLightingSystem: Illumination: 3:15 min (3.13 sec encoding lightmaps, 928 ms encoding shadowmaps)
+[2020.12.17-00.46.18:795][  1]LogStaticLightingSystem: Lightmap texture memory:  48.2 MB (26.9 MB streaming, 21.3 MB non-streaming), 30 textures
+[2020.12.17-00.46.18:795][  1]LogStaticLightingSystem: Shadowmap texture memory: 35.0 MB (24.3 MB streaming, 10.7 MB non-streaming), 7 textures
+[2020.12.17-00.46.26:518][  1]DumpUnbuiltLightIteractions
+[2020.12.17-00.46.26:518][  1]Lights with unbuilt interactions: 2
+[2020.12.17-00.46.26:518][  1]    Light PointLight_1
+[2020.12.17-00.46.26:518][  1]    Light SpotLight3
+[2020.12.17-00.46.26:518][  1]
+[2020.12.17-00.46.26:518][  1]Primitives with unbuilt interactions: 1
+[2020.12.17-00.46.26:518][  1]    Primitive FoliageInstancedStaticMeshComponent /Game/OurContent/Maps/DefaultMap.DefaultMap:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_11
+[2020.12.17-00.46.26:714][  2]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.17-00.46.26:714][  2]MapCheck: New page: DefaultMap - Dec 16, 2020, 10:46:26 AM
+[2020.12.17-00.46.26:714][  2]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.12.17-00.46.26:715][  2]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.294ms to complete.
+[2020.12.17-00.46.29:598][ 11]LogSlate: Window 'Message Log' being destroyed
+[2020.12.17-00.46.29:601][ 11]LogSlate: Window 'Message Log' being destroyed
+[2020.12.17-00.49.50:204][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.12.17-00.49.50:387][906]LogSavePackage: Moving '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/DefaultMap_Auto1D71954A3472AF34710FFDE83E8EDA1AE.tmp' to '../../../../../Unreal Projects/UnrealGame/UnrealGame/UnrealGame/Saved/Autosaves/Game/OurContent/Maps/DefaultMap_Auto1.umap'
+[2020.12.17-00.49.50:389][906]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OurContent/Maps/DefaultMap' took 0.222
+[2020.12.17-00.49.50:389][906]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2020.12.17-00.50.03:497][281]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.50.03:524][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.50.03:524][281]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:50:03 AM)
+[2020.12.17-00.50.03:524][281]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.03:567][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042534s)
+[2020.12.17-00.50.03:568][281]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.50.03:568][281]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024B5971FE00), frame # 1230281
+[2020.12.17-00.50.03:568][281]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000249E3220180), frame # 1230281
+[2020.12.17-00.50.03:569][281]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2020.12.17-00.50.03:569][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.044243s)
+[2020.12.17-00.50.03:603][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.12.17-00.50.03:607][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.50.03:607][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.50.03:607][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.50.03:607][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.50.03:607][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.50.03:607][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.50.03:607][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.50.03:607][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.50.03:608][281]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.50.03:608][281]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.50.03:617][281]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.50.03:617][281]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.50.03:669][281]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.50.03:669][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.50.03:669][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.50.03:669][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.50.03:669][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.50.03:682][281]LogInit: FAudioDevice initialized.
+[2020.12.17-00.50.03:691][281]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.50.03:723][281]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.50.03
+[2020.12.17-00.50.03:724][281]LogWorld: Bringing up level for play took: 0.031686
+[2020.12.17-00.50.03:724][281]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.12.17-00.50.03:748][281]PIE: Server logged in
+[2020.12.17-00.50.03:749][281]PIE: Play in editor total start time 0.225 seconds.
+[2020.12.17-00.50.04:146][320]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.50.05:326][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.05:326][452]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.05:326][452]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.50.05:328][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.05:338][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.50.05:344][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.05:392][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.05:398][452]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000249E3220180), frame # 1230452
+[2020.12.17-00.50.05:398][452]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024B5971FE00), frame # 1230452
+[2020.12.17-00.50.05:401][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.12.17-00.50.05:478][453]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.12.17-00.50.06:936][577]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.50.11:526][936]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.50.11:548][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.50.11:549][936]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:50:11 AM)
+[2020.12.17-00.50.11:549][936]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.11:591][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041931s)
+[2020.12.17-00.50.11:592][936]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.50.11:592][936]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024B58EE3E00), frame # 1230936
+[2020.12.17-00.50.11:592][936]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024BC3F16480), frame # 1230936
+[2020.12.17-00.50.11:593][936]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2020.12.17-00.50.11:593][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.043750s)
+[2020.12.17-00.50.11:628][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.12.17-00.50.11:632][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.50.11:632][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.50.11:632][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.50.11:632][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.50.11:632][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.50.11:632][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.50.11:632][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.50.11:632][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.50.11:633][936]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.50.11:633][936]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.50.11:643][936]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.50.11:643][936]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.50.11:720][936]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.50.11:721][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.50.11:721][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.50.11:721][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.50.11:721][936]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.50.11:734][936]LogInit: FAudioDevice initialized.
+[2020.12.17-00.50.11:746][936]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.50.11:754][936]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.50.11
+[2020.12.17-00.50.11:755][936]LogWorld: Bringing up level for play took: 0.007887
+[2020.12.17-00.50.11:755][936]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2020.12.17-00.50.11:758][936]PIE: Server logged in
+[2020.12.17-00.50.11:759][936]PIE: Play in editor total start time 0.21 seconds.
+[2020.12.17-00.50.12:189][979]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.50.13:696][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.13:696][148]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.13:697][148]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.50.13:700][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.13:712][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.50.13:719][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.13:768][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.13:772][148]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024BC3F16480), frame # 1231148
+[2020.12.17-00.50.13:772][148]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024B58EE3E00), frame # 1231148
+[2020.12.17-00.50.13:777][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.17-00.50.13:819][149]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2020.12.17-00.50.14:888][236]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.50.17:203][419]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.50.17:227][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.50.17:227][419]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:50:17 AM)
+[2020.12.17-00.50.17:255][419]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.17:296][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040743s)
+[2020.12.17-00.50.17:329][419]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.50.17:329][419]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024B590BFE00), frame # 1231419
+[2020.12.17-00.50.17:329][419]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024A9722C180), frame # 1231419
+[2020.12.17-00.50.17:329][419]LogPlayLevel: PIE: World Init took: (0.033614s)
+[2020.12.17-00.50.17:329][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.074564s)
+[2020.12.17-00.50.17:362][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.12.17-00.50.17:365][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.50.17:366][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.50.17:366][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.50.17:366][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.50.17:366][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.50.17:366][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.50.17:366][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.50.17:366][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.50.17:366][419]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.50.17:366][419]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.50.17:375][419]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.50.17:375][419]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.50.17:424][419]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.50.17:424][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.50.17:424][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.50.17:424][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.50.17:425][419]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.50.17:438][419]LogInit: FAudioDevice initialized.
+[2020.12.17-00.50.17:448][419]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.50.17:456][419]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.50.17
+[2020.12.17-00.50.17:457][419]LogWorld: Bringing up level for play took: 0.008560
+[2020.12.17-00.50.17:457][419]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2020.12.17-00.50.17:460][419]PIE: Server logged in
+[2020.12.17-00.50.17:461][419]PIE: Play in editor total start time 0.235 seconds.
+[2020.12.17-00.50.17:819][455]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.50.20:215][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.20:215][733]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.20:216][733]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.50.20:217][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.20:232][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.50.20:238][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.20:308][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.20:312][733]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024A9722C180), frame # 1231733
+[2020.12.17-00.50.20:312][733]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024B590BFE00), frame # 1231733
+[2020.12.17-00.50.20:317][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.12.17-00.50.20:388][734]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2020.12.17-00.50.21:102][793]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.12.17-00.50.26:039][154]LogTemp: Repeating last play command: Simulate
+[2020.12.17-00.50.26:062][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.17-00.50.26:062][154]PIE: New page: SIE session: DefaultMap (Dec 16, 2020, 10:50:26 AM)
+[2020.12.17-00.50.26:085][154]LogPlayLevel: Creating play world package: /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.26:126][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041148s)
+[2020.12.17-00.50.26:127][154]LogAIModule: Creating AISystem for world DefaultMap
+[2020.12.17-00.50.26:127][154]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024B7FF57E00), frame # 1232154
+[2020.12.17-00.50.26:127][154]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000249C85C3880), frame # 1232154
+[2020.12.17-00.50.26:127][154]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2020.12.17-00.50.26:127][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurContent/Maps/DefaultMap.DefaultMap to /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.042445s)
+[2020.12.17-00.50.26:162][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.12.17-00.50.26:166][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-00.50.26:166][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-00.50.26:166][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-00.50.26:166][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-00.50.26:166][154]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-00.50.26:166][154]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-00.50.26:166][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-00.50.26:166][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-00.50.26:167][154]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-00.50.26:167][154]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-00.50.26:176][154]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-00.50.26:176][154]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-00.50.26:245][154]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.17-00.50.26:245][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-00.50.26:245][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-00.50.26:245][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-00.50.26:246][154]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-00.50.26:258][154]LogInit: FAudioDevice initialized.
+[2020.12.17-00.50.26:266][154]LogLoad: Game class is 'OurGameBase_C'
+[2020.12.17-00.50.26:275][154]LogWorld: Bringing World /Game/OurContent/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2020.12.16-17.50.26
+[2020.12.17-00.50.26:275][154]LogWorld: Bringing up level for play took: 0.008491
+[2020.12.17-00.50.26:276][154]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2020.12.17-00.50.26:279][154]PIE: Server logged in
+[2020.12.17-00.50.26:280][154]PIE: Play in editor total start time 0.219 seconds.
+[2020.12.17-00.50.26:650][192]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2020.12.17-00.50.28:416][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.28:416][399]LogWorld: BeginTearingDown for /Game/OurContent/Maps/UEDPIE_0_DefaultMap
+[2020.12.17-00.50.28:416][399]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-00.50.28:418][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.28:428][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.17-00.50.28:435][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-00.50.28:494][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.50.28:519][399]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000249C85C3880), frame # 1232399
+[2020.12.17-00.50.28:519][399]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024B7FF57E00), frame # 1232399
+[2020.12.17-00.50.28:523][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.12.17-00.50.28:564][400]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2020.12.17-00.50.31:344][612]MapCheck: New page: Map Check
+[2020.12.17-00.50.31:357][612]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.17-00.50.31:357][612]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.17-00.50.31:791][612]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=false
+[2020.12.17-00.50.32:497][612]LightingResults: New page: Lighting Build - Dec 16, 2020, 10:50:32 AM
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:506][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:507][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:507][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:507][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.17-00.50.32:509][612]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.17-00.50.32:514][612]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.17-00.50.32:514][612]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.17-00.50.32:515][612]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.17-00.50.32:515][612]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12232
+[2020.12.17-00.50.37:030][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.17-00.50.37:030][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.17-00.50.37:030][612]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.17-00.50.37:030][612]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.17-00.50.37:030][612]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.17-00.50.37:297][612]LogEditorBuildUtils: Build time 0:05
+[2020.12.17-00.50.37:912][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.12.17-00.51.00:037][570]LightingResults: Warning: Concrete_Stone_LOD0_uc1jagnjw Object has wrapping UVs.
+[2020.12.17-00.51.14:679][559]LightingResults: Warning: Concrete_Stone_LOD0_uc1jagnjw Object has wrapping UVs.
+[2020.12.17-00.52.05:256][604]LogEditorViewport: Clicking on Actor (LMB): Spikes_C (Spikes2)
+[2020.12.17-00.53.02:491][144]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2020.12.17-00.53.03:504][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.17-00.53.29:216][725]Job is a success!
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.035s
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:      Indirection Texture 16x48x16 = 0.0Mb
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:          1: 6.7% covering 5.2% of volume
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:          2: 91.3% covering 1.1% of volume
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.17-00.53.29:468][726]LogVolumetricLightmapImport:          DefaultMap 			 149 bricks 	 100.0% (Persistent Level)
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: PointLight7_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: SpotLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: PointLight12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: PointLight9_7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.31:238][726]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.12.17-00.53.34:480][726]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.12.17-00.53.34:480][726]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.12.17-00.53.34:480][726]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:480][726]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:480][726]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:480][726]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:480][726]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 2048X1024)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 2048X2048)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 2048X2048)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 64X64)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 64X64)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 64X32)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 64X32)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 64X64)
+[2020.12.17-00.53.34:481][726]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 64X64)
+[2020.12.17-00.53.34:682][726]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 1024X128)
+[2020.12.17-00.53.34:882][726]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X512)
+[2020.12.17-00.53.34:882][726]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 1024X1024)
+[2020.12.17-00.53.35:139][726]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2020.12.17-00.53.35:140][726]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 1024X1024)
+[2020.12.17-00.53.35:140][726]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 1024X1024)
+[2020.12.17-00.53.35:140][726]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 2048X1024)
+[2020.12.17-00.53.35:140][726]Lightmass on DESKTOP-JKG5DN5: 2:56 min total, 466 ms importing, 2.84 sec setup, 17.1 sec photons, 2:36 min processing, 0 ms extra exporting [1389/1389 mappings]. Threads: 28:36 min total, 19:06 min processing.
+[2020.12.17-00.53.39:737][726]LogStaticLightingSystem: DefaultMap_BuiltData storing lightmap data for 483 meshes in 44 LightmapResourceClusters (11.0 Meshes per cluster).
+[2020.12.17-00.53.39:799][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.12.17-00.53.41:445][726]LogStaticLightingSystem: Illumination: 3:08 min (3.24 sec encoding lightmaps, 590 ms encoding shadowmaps)
+[2020.12.17-00.53.41:445][726]LogStaticLightingSystem: Lightmap texture memory:  48.2 MB (26.9 MB streaming, 21.3 MB non-streaming), 30 textures
+[2020.12.17-00.53.41:445][726]LogStaticLightingSystem: Shadowmap texture memory: 35.3 MB (24.7 MB streaming, 10.7 MB non-streaming), 7 textures
+[2020.12.17-00.53.42:166][726]DumpUnbuiltLightIteractions
+[2020.12.17-00.53.42:166][726]Lights with unbuilt interactions: 2
+[2020.12.17-00.53.42:166][726]    Light PointLight_1
+[2020.12.17-00.53.42:166][726]    Light SpotLight3
+[2020.12.17-00.53.42:166][726]
+[2020.12.17-00.53.42:166][726]Primitives with unbuilt interactions: 1
+[2020.12.17-00.53.42:166][726]    Primitive FoliageInstancedStaticMeshComponent /Game/OurContent/Maps/DefaultMap.DefaultMap:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_11
+[2020.12.17-00.53.42:289][727]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.17-00.53.42:290][727]MapCheck: New page: DefaultMap - Dec 16, 2020, 10:53:42 AM
+[2020.12.17-00.53.42:290][727]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.12.17-00.53.42:291][727]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.466ms to complete.
+[2020.12.17-00.53.43:736][804]LogSlate: Window 'Message Log' being destroyed
+[2020.12.17-00.53.43:753][804]LogSlate: Window 'Message Log' being destroyed
+[2020.12.17-00.54.06:399][728]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
